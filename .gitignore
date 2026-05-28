@@ -1,0 +1,31 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Model weights
+*.pt
+*.bin
+*.safetensors
+models/filo-recommender/
+
+# Weights & Biases
+.wandb/
+wandb/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+frontend/node_modules/
+
+# Caches
+.cache/
+api/.embeddings_cache.npy
+
+# OS
+.DS_Store

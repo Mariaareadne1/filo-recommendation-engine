@@ -1,0 +1,317 @@
+[
+  {
+    "query": "romantic wine bar with candlelight",
+    "expected_categories": [
+      "wine_bar",
+      "date_spot"
+    ]
+  },
+  {
+    "query": "cozy speakeasy for a first date",
+    "expected_categories": [
+      "speakeasy",
+      "date_spot",
+      "cocktail_bar"
+    ]
+  },
+  {
+    "query": "rooftop bar with skyline views at sunset",
+    "expected_categories": [
+      "rooftop_bar"
+    ]
+  },
+  {
+    "query": "late night ramen after drinks",
+    "expected_categories": [
+      "ramen_shop"
+    ]
+  },
+  {
+    "query": "classic New York slice of pizza",
+    "expected_categories": [
+      "pizza_spot"
+    ]
+  },
+  {
+    "query": "bottomless mimosa brunch with friends",
+    "expected_categories": [
+      "brunch_spot"
+    ]
+  },
+  {
+    "query": "quiet cafe to work on my laptop",
+    "expected_categories": [
+      "cafe"
+    ]
+  },
+  {
+    "query": "live jazz and a martini",
+    "expected_categories": [
+      "jazz_club",
+      "cocktail_bar"
+    ]
+  },
+  {
+    "query": "hidden cocktail bar with creative drinks",
+    "expected_categories": [
+      "speakeasy",
+      "cocktail_bar"
+    ]
+  },
+  {
+    "query": "dive bar to watch the game",
+    "expected_categories": [
+      "bar"
+    ]
+  },
+  {
+    "query": "intimate restaurant for an anniversary dinner",
+    "expected_categories": [
+      "restaurant",
+      "date_spot"
+    ]
+  },
+  {
+    "query": "natural wine and small plates",
+    "expected_categories": [
+      "wine_bar"
+    ]
+  },
+  {
+    "query": "trendy spot to grab espresso",
+    "expected_categories": [
+      "cafe"
+    ]
+  },
+  {
+    "query": "upscale tasting menu for a special occasion",
+    "expected_categories": [
+      "restaurant",
+      "date_spot"
+    ]
+  },
+  {
+    "query": "casual beer and burgers",
+    "expected_categories": [
+      "bar",
+      "restaurant"
+    ]
+  },
+  {
+    "query": "matcha latte and pastries in the morning",
+    "expected_categories": [
+      "cafe",
+      "brunch_spot"
+    ]
+  },
+  {
+    "query": "moody bar for craft cocktails",
+    "expected_categories": [
+      "cocktail_bar"
+    ]
+  },
+  {
+    "query": "date night with low lighting and great wine",
+    "expected_categories": [
+      "date_spot",
+      "wine_bar"
+    ]
+  },
+  {
+    "query": "rooftop drinks with a DJ",
+    "expected_categories": [
+      "rooftop_bar"
+    ]
+  },
+  {
+    "query": "spicy miso ramen in the East Village",
+    "expected_categories": [
+      "ramen_shop"
+    ]
+  },
+  {
+    "query": "wood-fired Neapolitan pizza",
+    "expected_categories": [
+      "pizza_spot"
+    ]
+  },
+  {
+    "query": "weekend brunch with eggs benedict",
+    "expected_categories": [
+      "brunch_spot"
+    ]
+  },
+  {
+    "query": "soulful live music venue",
+    "expected_categories": [
+      "jazz_club"
+    ]
+  },
+  {
+    "query": "secret bar with a password",
+    "expected_categories": [
+      "speakeasy"
+    ]
+  },
+  {
+    "query": "happy hour after work",
+    "expected_categories": [
+      "bar",
+      "cocktail_bar"
+    ]
+  },
+  {
+    "query": "farm-to-table seasonal dinner",
+    "expected_categories": [
+      "restaurant"
+    ]
+  },
+  {
+    "query": "cheese board and a glass of red",
+    "expected_categories": [
+      "wine_bar"
+    ]
+  },
+  {
+    "query": "cute coffee shop in Williamsburg",
+    "expected_categories": [
+      "cafe"
+    ]
+  },
+  {
+    "query": "fancy cocktails for a celebration",
+    "expected_categories": [
+      "cocktail_bar"
+    ]
+  },
+  {
+    "query": "romantic dinner tucked away",
+    "expected_categories": [
+      "date_spot",
+      "restaurant"
+    ]
+  },
+  {
+    "query": "open-air drinks on a warm night",
+    "expected_categories": [
+      "rooftop_bar"
+    ]
+  },
+  {
+    "query": "comforting bowl of noodles",
+    "expected_categories": [
+      "ramen_shop"
+    ]
+  },
+  {
+    "query": "coal oven pizza old-school style",
+    "expected_categories": [
+      "pizza_spot"
+    ]
+  },
+  {
+    "query": "leisurely Sunday brunch outdoors",
+    "expected_categories": [
+      "brunch_spot"
+    ]
+  },
+  {
+    "query": "dim jazz lounge for late night",
+    "expected_categories": [
+      "jazz_club"
+    ]
+  },
+  {
+    "query": "creative drinks behind an unmarked door",
+    "expected_categories": [
+      "speakeasy"
+    ]
+  },
+  {
+    "query": "friendly neighborhood bar with a patio",
+    "expected_categories": [
+      "bar"
+    ]
+  },
+  {
+    "query": "buzzy restaurant with shareable plates",
+    "expected_categories": [
+      "restaurant"
+    ]
+  },
+  {
+    "query": "candlelit wine bar in the West Village",
+    "expected_categories": [
+      "wine_bar",
+      "date_spot"
+    ]
+  },
+  {
+    "query": "laptop-friendly cafe with oat milk",
+    "expected_categories": [
+      "cafe"
+    ]
+  },
+  {
+    "query": "stylish cocktail spot for date night",
+    "expected_categories": [
+      "cocktail_bar",
+      "date_spot"
+    ]
+  },
+  {
+    "query": "scenic rooftop for golden hour",
+    "expected_categories": [
+      "rooftop_bar"
+    ]
+  },
+  {
+    "query": "handmade tonkotsu ramen",
+    "expected_categories": [
+      "ramen_shop"
+    ]
+  },
+  {
+    "query": "by-the-slice pizza late night",
+    "expected_categories": [
+      "pizza_spot"
+    ]
+  },
+  {
+    "query": "ricotta pancakes and bottomless mimosas",
+    "expected_categories": [
+      "brunch_spot"
+    ]
+  },
+  {
+    "query": "historic jazz club with standards",
+    "expected_categories": [
+      "jazz_club"
+    ]
+  },
+  {
+    "query": "intimate speakeasy with vintage decor",
+    "expected_categories": [
+      "speakeasy"
+    ]
+  },
+  {
+    "query": "upscale wine bar with by-the-glass pours",
+    "expected_categories": [
+      "wine_bar"
+    ]
+  },
+  {
+    "query": "special occasion restaurant in Tribeca",
+    "expected_categories": [
+      "restaurant",
+      "date_spot"
+    ]
+  },
+  {
+    "query": "chill cafe to read a book",
+    "expected_categories": [
+      "cafe"
+    ]
+  }
+]

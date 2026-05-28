@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "syn_0000",
+    "name": "The Quarter",
+    "description": "The Quarter is a seasonal restaurant in Cobble Hill, NYC, known for shareable plates, tasting menu, farm-to-table. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "restaurant",
+    "lat": 40.680091,
+    "lng": -74.00405,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0001",
+    "name": "Cervena",
+    "description": "Cervena is a seasonal restaurant in East Village, NYC, known for farm-to-table, natural wine, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "East Village",
+    "category": "restaurant",
+    "lat": 40.721153,
+    "lng": -73.97946,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0002",
+    "name": "The Larder",
+    "description": "The Larder is a bustling restaurant in Greenwich Village, NYC, known for natural wine, open kitchen, farm-to-table. It's a upscale spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "restaurant",
+    "lat": 40.732584,
+    "lng": -74.007136,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0003",
+    "name": "Lila",
+    "description": "Lila is a bustling restaurant in Astoria, NYC, known for shareable plates, natural wine, farm-to-table. It's a upscale spot.",
+    "neighborhood": "Astoria",
+    "category": "restaurant",
+    "lat": 40.758706,
+    "lng": -73.91823,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0004",
+    "name": "Maison Olive",
+    "description": "Maison Olive is a buzzy restaurant in East Village, NYC, known for shareable plates, natural wine, farm-to-table. It's a budget-friendly spot.",
+    "neighborhood": "East Village",
+    "category": "restaurant",
+    "lat": 40.731095,
+    "lng": -73.980775,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0005",
+    "name": "Cervena East",
+    "description": "Cervena East is a refined restaurant in East Village, NYC, known for natural wine, shareable plates, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "East Village",
+    "category": "restaurant",
+    "lat": 40.720346,
+    "lng": -73.990109,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0006",
+    "name": "Saffron House",
+    "description": "Saffron House is a neighborhood restaurant in Astoria, NYC, known for tasting menu, farm-to-table, natural wine. It's a splurge-worthy spot.",
+    "neighborhood": "Astoria",
+    "category": "restaurant",
+    "lat": 40.759959,
+    "lng": -73.920786,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0007",
+    "name": "Saffron House Chelsea",
+    "description": "Saffron House Chelsea is a refined restaurant in Chelsea, NYC, known for shareable plates, farm-to-table, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Chelsea",
+    "category": "restaurant",
+    "lat": 40.7492,
+    "lng": -74.000717,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0008",
+    "name": "Maison Olive Chelsea",
+    "description": "Maison Olive Chelsea is a bustling restaurant in Chelsea, NYC, known for natural wine, tasting menu, shareable plates. It's a moderately priced spot.",
+    "neighborhood": "Chelsea",
+    "category": "restaurant",
+    "lat": 40.742986,
+    "lng": -73.996034,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0009",
+    "name": "The Quarter Upper",
+    "description": "The Quarter Upper is a neighborhood restaurant in Upper West Side, NYC, known for open kitchen, shareable plates, farm-to-table. It's a upscale spot.",
+    "neighborhood": "Upper West Side",
+    "category": "restaurant",
+    "lat": 40.78122,
+    "lng": -73.966542,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0010",
+    "name": "The Larder Greenwich",
+    "description": "The Larder Greenwich is a seasonal restaurant in Greenwich Village, NYC, known for open kitchen, tasting menu, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "restaurant",
+    "lat": 40.726393,
+    "lng": -73.9978,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0011",
+    "name": "The Larder Upper",
+    "description": "The Larder Upper is a seasonal restaurant in Upper East Side, NYC, known for natural wine, open kitchen, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "Upper East Side",
+    "category": "restaurant",
+    "lat": 40.767986,
+    "lng": -73.946649,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0012",
+    "name": "The Quarter Bushwick",
+    "description": "The Quarter Bushwick is a seasonal restaurant in Bushwick, NYC, known for farm-to-table, tasting menu, shareable plates. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "restaurant",
+    "lat": 40.6876,
+    "lng": -73.91769,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0013",
+    "name": "Maison Olive East",
+    "description": "Maison Olive East is a bustling restaurant in East Village, NYC, known for open kitchen, shareable plates, natural wine. It's a moderately priced spot.",
+    "neighborhood": "East Village",
+    "category": "restaurant",
+    "lat": 40.733716,
+    "lng": -73.99127,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0014",
+    "name": "Cervena Fort",
+    "description": "Cervena Fort is a neighborhood restaurant in Fort Greene, NYC, known for shareable plates, farm-to-table, tasting menu. It's a upscale spot.",
+    "neighborhood": "Fort Greene",
+    "category": "restaurant",
+    "lat": 40.690695,
+    "lng": -73.974926,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0015",
+    "name": "Lila Greenpoint",
+    "description": "Lila Greenpoint is a neighborhood restaurant in Greenpoint, NYC, known for farm-to-table, shareable plates, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "restaurant",
+    "lat": 40.730553,
+    "lng": -73.957022,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0016",
+    "name": "Lila Astoria",
+    "description": "Lila Astoria is a neighborhood restaurant in Astoria, NYC, known for natural wine, farm-to-table, shareable plates. It's a moderately priced spot.",
+    "neighborhood": "Astoria",
+    "category": "restaurant",
+    "lat": 40.760883,
+    "lng": -73.93311,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0017",
+    "name": "Saffron House Ridgewood",
+    "description": "Saffron House Ridgewood is a seasonal restaurant in Ridgewood, NYC, known for tasting menu, farm-to-table, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "restaurant",
+    "lat": 40.704638,
+    "lng": -73.89868,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0018",
+    "name": "Lila 3",
+    "description": "Lila 3 is a refined restaurant in Astoria, NYC, known for open kitchen, tasting menu, natural wine. It's a budget-friendly spot.",
+    "neighborhood": "Astoria",
+    "category": "restaurant",
+    "lat": 40.764953,
+    "lng": -73.921368,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0019",
+    "name": "Cervena Sunnyside",
+    "description": "Cervena Sunnyside is a buzzy restaurant in Sunnyside, NYC, known for tasting menu, shareable plates, natural wine. It's a upscale spot.",
+    "neighborhood": "Sunnyside",
+    "category": "restaurant",
+    "lat": 40.753303,
+    "lng": -73.916602,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0020",
+    "name": "Cervena Ridgewood",
+    "description": "Cervena Ridgewood is a refined restaurant in Ridgewood, NYC, known for tasting menu, natural wine, farm-to-table. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "restaurant",
+    "lat": 40.696762,
+    "lng": -73.903234,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0021",
+    "name": "Lila Dumbo",
+    "description": "Lila Dumbo is a bustling restaurant in Dumbo, NYC, known for farm-to-table, tasting menu, natural wine. It's a budget-friendly spot.",
+    "neighborhood": "Dumbo",
+    "category": "restaurant",
+    "lat": 40.711408,
+    "lng": -73.980907,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0022",
+    "name": "Lila 4",
+    "description": "Lila 4 is a seasonal restaurant in Greenpoint, NYC, known for open kitchen, tasting menu, shareable plates. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "restaurant",
+    "lat": 40.723046,
+    "lng": -73.94229,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0023",
+    "name": "Maison Olive Dumbo",
+    "description": "Maison Olive Dumbo is a neighborhood restaurant in Dumbo, NYC, known for open kitchen, natural wine, farm-to-table. It's a moderately priced spot.",
+    "neighborhood": "Dumbo",
+    "category": "restaurant",
+    "lat": 40.695187,
+    "lng": -73.98492,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0024",
+    "name": "Maison Olive Financial",
+    "description": "Maison Olive Financial is a bustling restaurant in Financial District, NYC, known for farm-to-table, natural wine, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Financial District",
+    "category": "restaurant",
+    "lat": 40.705552,
+    "lng": -74.014514,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0025",
+    "name": "Lila Upper",
+    "description": "Lila Upper is a bustling restaurant in Upper West Side, NYC, known for open kitchen, tasting menu, natural wine. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "restaurant",
+    "lat": 40.78067,
+    "lng": -73.976147,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0026",
+    "name": "Cervena Williamsburg",
+    "description": "Cervena Williamsburg is a refined restaurant in Williamsburg, NYC, known for natural wine, farm-to-table, open kitchen. It's a budget-friendly spot.",
+    "neighborhood": "Williamsburg",
+    "category": "restaurant",
+    "lat": 40.716627,
+    "lng": -73.950126,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0027",
+    "name": "Maison Olive 3",
+    "description": "Maison Olive 3 is a neighborhood restaurant in Financial District, NYC, known for open kitchen, farm-to-table, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Financial District",
+    "category": "restaurant",
+    "lat": 40.705079,
+    "lng": -74.001594,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0028",
+    "name": "Maison Olive Sunnyside",
+    "description": "Maison Olive Sunnyside is a bustling restaurant in Sunnyside, NYC, known for natural wine, open kitchen, farm-to-table. It's a moderately priced spot.",
+    "neighborhood": "Sunnyside",
+    "category": "restaurant",
+    "lat": 40.737198,
+    "lng": -73.925246,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0029",
+    "name": "The Larder Dumbo",
+    "description": "The Larder Dumbo is a seasonal restaurant in Dumbo, NYC, known for shareable plates, farm-to-table, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Dumbo",
+    "category": "restaurant",
+    "lat": 40.704984,
+    "lng": -73.988043,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0030",
+    "name": "The Quarter Chelsea",
+    "description": "The Quarter Chelsea is a refined restaurant in Chelsea, NYC, known for farm-to-table, tasting menu, natural wine. It's a splurge-worthy spot.",
+    "neighborhood": "Chelsea",
+    "category": "restaurant",
+    "lat": 40.748401,
+    "lng": -73.997896,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0031",
+    "name": "The Quarter Hell's",
+    "description": "The Quarter Hell's is a buzzy restaurant in Hell's Kitchen, NYC, known for natural wine, tasting menu, shareable plates. It's a splurge-worthy spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "restaurant",
+    "lat": 40.76569,
+    "lng": -73.989412,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0032",
+    "name": "Cervena 3",
+    "description": "Cervena 3 is a neighborhood restaurant in Fort Greene, NYC, known for shareable plates, natural wine, farm-to-table. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "restaurant",
+    "lat": 40.695395,
+    "lng": -73.977716,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0033",
+    "name": "Lila Hell's",
+    "description": "Lila Hell's is a bustling restaurant in Hell's Kitchen, NYC, known for shareable plates, open kitchen, tasting menu. It's a upscale spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "restaurant",
+    "lat": 40.77238,
+    "lng": -73.983085,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0034",
+    "name": "Cervena 4",
+    "description": "Cervena 4 is a neighborhood restaurant in Williamsburg, NYC, known for farm-to-table, natural wine, shareable plates. It's a splurge-worthy spot.",
+    "neighborhood": "Williamsburg",
+    "category": "restaurant",
+    "lat": 40.702363,
+    "lng": -73.961796,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0035",
+    "name": "The Quarter Ridgewood",
+    "description": "The Quarter Ridgewood is a neighborhood restaurant in Ridgewood, NYC, known for shareable plates, natural wine, farm-to-table. It's a upscale spot.",
+    "neighborhood": "Ridgewood",
+    "category": "restaurant",
+    "lat": 40.698764,
+    "lng": -73.904136,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0036",
+    "name": "The Larder Bedford-Stuyvesant",
+    "description": "The Larder Bedford-Stuyvesant is a neighborhood restaurant in Bedford-Stuyvesant, NYC, known for natural wine, shareable plates, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "restaurant",
+    "lat": 40.679272,
+    "lng": -73.934237,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0037",
+    "name": "The Quarter SoHo",
+    "description": "The Quarter SoHo is a refined restaurant in SoHo, NYC, known for tasting menu, shareable plates, natural wine. It's a upscale spot.",
+    "neighborhood": "SoHo",
+    "category": "restaurant",
+    "lat": 40.725397,
+    "lng": -73.998648,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0038",
+    "name": "The Larder Fort",
+    "description": "The Larder Fort is a bustling restaurant in Fort Greene, NYC, known for natural wine, open kitchen, tasting menu. It's a upscale spot.",
+    "neighborhood": "Fort Greene",
+    "category": "restaurant",
+    "lat": 40.700107,
+    "lng": -73.967078,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0039",
+    "name": "Maison Olive Cobble",
+    "description": "Maison Olive Cobble is a neighborhood restaurant in Cobble Hill, NYC, known for farm-to-table, natural wine, tasting menu. It's a upscale spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "restaurant",
+    "lat": 40.692722,
+    "lng": -73.993358,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0040",
+    "name": "The Larder Chelsea",
+    "description": "The Larder Chelsea is a refined restaurant in Chelsea, NYC, known for open kitchen, farm-to-table, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Chelsea",
+    "category": "restaurant",
+    "lat": 40.738005,
+    "lng": -73.993738,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0041",
+    "name": "The Quarter Park",
+    "description": "The Quarter Park is a bustling restaurant in Park Slope, NYC, known for natural wine, tasting menu, open kitchen. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "restaurant",
+    "lat": 40.663549,
+    "lng": -73.985235,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0042",
+    "name": "Saffron House 3",
+    "description": "Saffron House 3 is a buzzy restaurant in Ridgewood, NYC, known for tasting menu, farm-to-table, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "restaurant",
+    "lat": 40.705602,
+    "lng": -73.897317,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0043",
+    "name": "The Larder 3",
+    "description": "The Larder 3 is a neighborhood restaurant in Bedford-Stuyvesant, NYC, known for tasting menu, natural wine, farm-to-table. It's a budget-friendly spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "restaurant",
+    "lat": 40.694828,
+    "lng": -73.951304,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0044",
+    "name": "Maison Olive Long",
+    "description": "Maison Olive Long is a bustling restaurant in Long Island City, NYC, known for tasting menu, shareable plates, farm-to-table. It's a upscale spot.",
+    "neighborhood": "Long Island City",
+    "category": "restaurant",
+    "lat": 40.750447,
+    "lng": -73.956338,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0045",
+    "name": "Maison Olive Jackson",
+    "description": "Maison Olive Jackson is a refined restaurant in Jackson Heights, NYC, known for open kitchen, shareable plates, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "restaurant",
+    "lat": 40.762111,
+    "lng": -73.875674,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0046",
+    "name": "The Larder Lower",
+    "description": "The Larder Lower is a seasonal restaurant in Lower East Side, NYC, known for shareable plates, natural wine, farm-to-table. It's a budget-friendly spot.",
+    "neighborhood": "Lower East Side",
+    "category": "restaurant",
+    "lat": 40.724338,
+    "lng": -73.988718,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0047",
+    "name": "The Larder Hell's",
+    "description": "The Larder Hell's is a refined restaurant in Hell's Kitchen, NYC, known for natural wine, shareable plates, farm-to-table. It's a splurge-worthy spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "restaurant",
+    "lat": 40.756107,
+    "lng": -73.982392,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0048",
+    "name": "Saffron House Dumbo",
+    "description": "Saffron House Dumbo is a seasonal restaurant in Dumbo, NYC, known for natural wine, open kitchen, tasting menu. It's a budget-friendly spot.",
+    "neighborhood": "Dumbo",
+    "category": "restaurant",
+    "lat": 40.707871,
+    "lng": -73.991826,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0049",
+    "name": "The Quarter Greenpoint",
+    "description": "The Quarter Greenpoint is a seasonal restaurant in Greenpoint, NYC, known for natural wine, tasting menu, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "restaurant",
+    "lat": 40.721288,
+    "lng": -73.952279,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0050",
+    "name": "Cervena 5",
+    "description": "Cervena 5 is a neighborhood restaurant in Sunnyside, NYC, known for tasting menu, shareable plates, natural wine. It's a upscale spot.",
+    "neighborhood": "Sunnyside",
+    "category": "restaurant",
+    "lat": 40.734799,
+    "lng": -73.916315,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0051",
+    "name": "Saffron House Bedford-Stuyvesant",
+    "description": "Saffron House Bedford-Stuyvesant is a buzzy restaurant in Bedford-Stuyvesant, NYC, known for farm-to-table, shareable plates, open kitchen. It's a upscale spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "restaurant",
+    "lat": 40.683386,
+    "lng": -73.943632,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0052",
+    "name": "Saffron House Crown",
+    "description": "Saffron House Crown is a refined restaurant in Crown Heights, NYC, known for tasting menu, open kitchen, shareable plates. It's a moderately priced spot.",
+    "neighborhood": "Crown Heights",
+    "category": "restaurant",
+    "lat": 40.678207,
+    "lng": -73.940654,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0053",
+    "name": "Cervena Bedford-Stuyvesant",
+    "description": "Cervena Bedford-Stuyvesant is a seasonal restaurant in Bedford-Stuyvesant, NYC, known for natural wine, farm-to-table, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "restaurant",
+    "lat": 40.682938,
+    "lng": -73.943202,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0054",
+    "name": "The Larder 4",
+    "description": "The Larder 4 is a refined restaurant in Bedford-Stuyvesant, NYC, known for open kitchen, natural wine, shareable plates. It's a moderately priced spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "restaurant",
+    "lat": 40.681474,
+    "lng": -73.942336,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0055",
+    "name": "The Quarter Fort",
+    "description": "The Quarter Fort is a neighborhood restaurant in Fort Greene, NYC, known for natural wine, shareable plates, farm-to-table. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "restaurant",
+    "lat": 40.698368,
+    "lng": -73.968977,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0056",
+    "name": "Lila 5",
+    "description": "Lila 5 is a buzzy restaurant in Upper West Side, NYC, known for farm-to-table, tasting menu, open kitchen. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "restaurant",
+    "lat": 40.789225,
+    "lng": -73.97003,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0057",
+    "name": "The Larder Financial",
+    "description": "The Larder Financial is a bustling restaurant in Financial District, NYC, known for open kitchen, natural wine, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "Financial District",
+    "category": "restaurant",
+    "lat": 40.70238,
+    "lng": -74.008179,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0058",
+    "name": "The Quarter 3",
+    "description": "The Quarter 3 is a refined restaurant in Ridgewood, NYC, known for tasting menu, natural wine, shareable plates. It's a upscale spot.",
+    "neighborhood": "Ridgewood",
+    "category": "restaurant",
+    "lat": 40.700359,
+    "lng": -73.913996,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0059",
+    "name": "The Quarter Sunnyside",
+    "description": "The Quarter Sunnyside is a seasonal restaurant in Sunnyside, NYC, known for open kitchen, shareable plates, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "Sunnyside",
+    "category": "restaurant",
+    "lat": 40.745653,
+    "lng": -73.915215,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0060",
+    "name": "Cervena Financial",
+    "description": "Cervena Financial is a neighborhood restaurant in Financial District, NYC, known for tasting menu, open kitchen, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Financial District",
+    "category": "restaurant",
+    "lat": 40.702684,
+    "lng": -74.016355,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0061",
+    "name": "Cervena Astoria",
+    "description": "Cervena Astoria is a neighborhood restaurant in Astoria, NYC, known for tasting menu, shareable plates, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Astoria",
+    "category": "restaurant",
+    "lat": 40.75595,
+    "lng": -73.927785,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0062",
+    "name": "Saffron House Midtown",
+    "description": "Saffron House Midtown is a refined restaurant in Midtown, NYC, known for farm-to-table, tasting menu, natural wine. It's a upscale spot.",
+    "neighborhood": "Midtown",
+    "category": "restaurant",
+    "lat": 40.749525,
+    "lng": -73.980121,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0063",
+    "name": "Maison Olive 4",
+    "description": "Maison Olive 4 is a buzzy restaurant in East Village, NYC, known for natural wine, open kitchen, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "East Village",
+    "category": "restaurant",
+    "lat": 40.717745,
+    "lng": -73.974842,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0064",
+    "name": "Cervena 6",
+    "description": "Cervena 6 is a buzzy restaurant in Ridgewood, NYC, known for farm-to-table, open kitchen, tasting menu. It's a splurge-worthy spot.",
+    "neighborhood": "Ridgewood",
+    "category": "restaurant",
+    "lat": 40.690118,
+    "lng": -73.907965,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0065",
+    "name": "Maison Olive 5",
+    "description": "Maison Olive 5 is a bustling restaurant in Jackson Heights, NYC, known for natural wine, tasting menu, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "restaurant",
+    "lat": 40.750088,
+    "lng": -73.884383,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0066",
+    "name": "Saffron House Hell's",
+    "description": "Saffron House Hell's is a seasonal restaurant in Hell's Kitchen, NYC, known for open kitchen, tasting menu, natural wine. It's a upscale spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "restaurant",
+    "lat": 40.772191,
+    "lng": -73.982186,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0067",
+    "name": "Maison Olive Lower",
+    "description": "Maison Olive Lower is a refined restaurant in Lower East Side, NYC, known for farm-to-table, natural wine, shareable plates. It's a moderately priced spot.",
+    "neighborhood": "Lower East Side",
+    "category": "restaurant",
+    "lat": 40.713572,
+    "lng": -73.976963,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0068",
+    "name": "Saffron House West",
+    "description": "Saffron House West is a neighborhood restaurant in West Village, NYC, known for tasting menu, open kitchen, natural wine. It's a moderately priced spot.",
+    "neighborhood": "West Village",
+    "category": "restaurant",
+    "lat": 40.73255,
+    "lng": -73.996007,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0069",
+    "name": "Maison Olive Astoria",
+    "description": "Maison Olive Astoria is a neighborhood restaurant in Astoria, NYC, known for farm-to-table, open kitchen, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Astoria",
+    "category": "restaurant",
+    "lat": 40.76938,
+    "lng": -73.932458,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0070",
+    "name": "The Larder 5",
+    "description": "The Larder 5 is a refined restaurant in Upper West Side, NYC, known for farm-to-table, natural wine, open kitchen. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "restaurant",
+    "lat": 40.780987,
+    "lng": -73.984992,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0071",
+    "name": "Lila 6",
+    "description": "Lila 6 is a refined restaurant in Upper West Side, NYC, known for farm-to-table, tasting menu, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Upper West Side",
+    "category": "restaurant",
+    "lat": 40.790989,
+    "lng": -73.970062,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0072",
+    "name": "Cervena 7",
+    "description": "Cervena 7 is a neighborhood restaurant in Bedford-Stuyvesant, NYC, known for farm-to-table, tasting menu, open kitchen. It's a splurge-worthy spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "restaurant",
+    "lat": 40.679362,
+    "lng": -73.951286,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0073",
+    "name": "The Larder 6",
+    "description": "The Larder 6 is a refined restaurant in Dumbo, NYC, known for open kitchen, natural wine, shareable plates. It's a splurge-worthy spot.",
+    "neighborhood": "Dumbo",
+    "category": "restaurant",
+    "lat": 40.697267,
+    "lng": -73.986258,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0074",
+    "name": "The Larder SoHo",
+    "description": "The Larder SoHo is a buzzy restaurant in SoHo, NYC, known for natural wine, farm-to-table, shareable plates. It's a upscale spot.",
+    "neighborhood": "SoHo",
+    "category": "restaurant",
+    "lat": 40.728953,
+    "lng": -74.006056,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0075",
+    "name": "Saffron House Fort",
+    "description": "Saffron House Fort is a neighborhood restaurant in Fort Greene, NYC, known for shareable plates, farm-to-table, tasting menu. It's a budget-friendly spot.",
+    "neighborhood": "Fort Greene",
+    "category": "restaurant",
+    "lat": 40.698447,
+    "lng": -73.981889,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0076",
+    "name": "Maison Olive 6",
+    "description": "Maison Olive 6 is a seasonal restaurant in Cobble Hill, NYC, known for open kitchen, tasting menu, shareable plates. It's a upscale spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "restaurant",
+    "lat": 40.687735,
+    "lng": -73.993091,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0077",
+    "name": "Cervena Long",
+    "description": "Cervena Long is a refined restaurant in Long Island City, NYC, known for open kitchen, natural wine, shareable plates. It's a upscale spot.",
+    "neighborhood": "Long Island City",
+    "category": "restaurant",
+    "lat": 40.746549,
+    "lng": -73.952054,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0078",
+    "name": "The Quarter Flushing",
+    "description": "The Quarter Flushing is a neighborhood restaurant in Flushing, NYC, known for open kitchen, tasting menu, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Flushing",
+    "category": "restaurant",
+    "lat": 40.768897,
+    "lng": -73.829736,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0079",
+    "name": "Maison Olive 7",
+    "description": "Maison Olive 7 is a neighborhood restaurant in Lower East Side, NYC, known for tasting menu, open kitchen, farm-to-table. It's a upscale spot.",
+    "neighborhood": "Lower East Side",
+    "category": "restaurant",
+    "lat": 40.712096,
+    "lng": -73.989133,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0080",
+    "name": "Cervena 8",
+    "description": "Cervena 8 is a buzzy restaurant in Ridgewood, NYC, known for shareable plates, farm-to-table, natural wine. It's a upscale spot.",
+    "neighborhood": "Ridgewood",
+    "category": "restaurant",
+    "lat": 40.708961,
+    "lng": -73.913288,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0081",
+    "name": "Cervena Bushwick",
+    "description": "Cervena Bushwick is a refined restaurant in Bushwick, NYC, known for open kitchen, natural wine, tasting menu. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "restaurant",
+    "lat": 40.700259,
+    "lng": -73.929439,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0082",
+    "name": "The Larder 7",
+    "description": "The Larder 7 is a seasonal restaurant in Hell's Kitchen, NYC, known for natural wine, shareable plates, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "restaurant",
+    "lat": 40.764869,
+    "lng": -73.994925,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0083",
+    "name": "Saffron House 4",
+    "description": "Saffron House 4 is a neighborhood restaurant in Midtown, NYC, known for shareable plates, natural wine, tasting menu. It's a upscale spot.",
+    "neighborhood": "Midtown",
+    "category": "restaurant",
+    "lat": 40.749511,
+    "lng": -73.979574,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0084",
+    "name": "The Larder 8",
+    "description": "The Larder 8 is a seasonal restaurant in SoHo, NYC, known for tasting menu, natural wine, farm-to-table. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "restaurant",
+    "lat": 40.728072,
+    "lng": -74.00747,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0085",
+    "name": "Cervena 9",
+    "description": "Cervena 9 is a bustling restaurant in Astoria, NYC, known for farm-to-table, tasting menu, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Astoria",
+    "category": "restaurant",
+    "lat": 40.75895,
+    "lng": -73.929911,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0086",
+    "name": "Cervena Crown",
+    "description": "Cervena Crown is a buzzy restaurant in Crown Heights, NYC, known for farm-to-table, natural wine, shareable plates. It's a budget-friendly spot.",
+    "neighborhood": "Crown Heights",
+    "category": "restaurant",
+    "lat": 40.665243,
+    "lng": -73.935318,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0087",
+    "name": "The Quarter 4",
+    "description": "The Quarter 4 is a neighborhood restaurant in SoHo, NYC, known for open kitchen, natural wine, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "restaurant",
+    "lat": 40.720114,
+    "lng": -73.99369,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0088",
+    "name": "Maison Olive 8",
+    "description": "Maison Olive 8 is a bustling restaurant in Jackson Heights, NYC, known for farm-to-table, open kitchen, tasting menu. It's a budget-friendly spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "restaurant",
+    "lat": 40.747182,
+    "lng": -73.880511,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0089",
+    "name": "Lila Tribeca",
+    "description": "Lila Tribeca is a seasonal restaurant in Tribeca, NYC, known for shareable plates, farm-to-table, open kitchen. It's a upscale spot.",
+    "neighborhood": "Tribeca",
+    "category": "restaurant",
+    "lat": 40.708669,
+    "lng": -74.003311,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0090",
+    "name": "Cervena 10",
+    "description": "Cervena 10 is a seasonal restaurant in Bedford-Stuyvesant, NYC, known for natural wine, open kitchen, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "restaurant",
+    "lat": 40.69537,
+    "lng": -73.945853,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0091",
+    "name": "Saffron House Financial",
+    "description": "Saffron House Financial is a bustling restaurant in Financial District, NYC, known for farm-to-table, natural wine, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Financial District",
+    "category": "restaurant",
+    "lat": 40.71001,
+    "lng": -74.016007,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0092",
+    "name": "Lila Chelsea",
+    "description": "Lila Chelsea is a buzzy restaurant in Chelsea, NYC, known for farm-to-table, tasting menu, natural wine. It's a budget-friendly spot.",
+    "neighborhood": "Chelsea",
+    "category": "restaurant",
+    "lat": 40.74467,
+    "lng": -73.997613,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0093",
+    "name": "The Quarter Harlem",
+    "description": "The Quarter Harlem is a seasonal restaurant in Harlem, NYC, known for shareable plates, open kitchen, farm-to-table. It's a moderately priced spot.",
+    "neighborhood": "Harlem",
+    "category": "restaurant",
+    "lat": 40.815348,
+    "lng": -73.938022,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0094",
+    "name": "Lila Fort",
+    "description": "Lila Fort is a refined restaurant in Fort Greene, NYC, known for natural wine, tasting menu, shareable plates. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "restaurant",
+    "lat": 40.68498,
+    "lng": -73.978687,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0095",
+    "name": "The Quarter East",
+    "description": "The Quarter East is a buzzy restaurant in East Village, NYC, known for shareable plates, natural wine, tasting menu. It's a budget-friendly spot.",
+    "neighborhood": "East Village",
+    "category": "restaurant",
+    "lat": 40.718987,
+    "lng": -73.977726,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0096",
+    "name": "Cervena Upper",
+    "description": "Cervena Upper is a neighborhood restaurant in Upper East Side, NYC, known for open kitchen, farm-to-table, shareable plates. It's a moderately priced spot.",
+    "neighborhood": "Upper East Side",
+    "category": "restaurant",
+    "lat": 40.764397,
+    "lng": -73.957959,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0097",
+    "name": "Saffron House 5",
+    "description": "Saffron House 5 is a refined restaurant in Bedford-Stuyvesant, NYC, known for tasting menu, farm-to-table, shareable plates. It's a budget-friendly spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "restaurant",
+    "lat": 40.693628,
+    "lng": -73.940275,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0098",
+    "name": "Cervena 11",
+    "description": "Cervena 11 is a bustling restaurant in Bushwick, NYC, known for shareable plates, tasting menu, natural wine. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "restaurant",
+    "lat": 40.693118,
+    "lng": -73.915015,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0099",
+    "name": "Saffron House Bushwick",
+    "description": "Saffron House Bushwick is a neighborhood restaurant in Bushwick, NYC, known for shareable plates, farm-to-table, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Bushwick",
+    "category": "restaurant",
+    "lat": 40.690996,
+    "lng": -73.917427,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0100",
+    "name": "Maison Olive Fort",
+    "description": "Maison Olive Fort is a bustling restaurant in Fort Greene, NYC, known for natural wine, farm-to-table, tasting menu. It's a upscale spot.",
+    "neighborhood": "Fort Greene",
+    "category": "restaurant",
+    "lat": 40.683761,
+    "lng": -73.978952,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0101",
+    "name": "Maison Olive 9",
+    "description": "Maison Olive 9 is a seasonal restaurant in Astoria, NYC, known for farm-to-table, open kitchen, tasting menu. It's a upscale spot.",
+    "neighborhood": "Astoria",
+    "category": "restaurant",
+    "lat": 40.755484,
+    "lng": -73.923131,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0102",
+    "name": "Maison Olive 10",
+    "description": "Maison Olive 10 is a buzzy restaurant in Astoria, NYC, known for farm-to-table, tasting menu, open kitchen. It's a upscale spot.",
+    "neighborhood": "Astoria",
+    "category": "restaurant",
+    "lat": 40.765384,
+    "lng": -73.914947,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0103",
+    "name": "The Larder Ridgewood",
+    "description": "The Larder Ridgewood is a seasonal restaurant in Ridgewood, NYC, known for farm-to-table, tasting menu, shareable plates. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "restaurant",
+    "lat": 40.693168,
+    "lng": -73.903983,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0104",
+    "name": "The Quarter Financial",
+    "description": "The Quarter Financial is a neighborhood restaurant in Financial District, NYC, known for farm-to-table, open kitchen, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Financial District",
+    "category": "restaurant",
+    "lat": 40.710454,
+    "lng": -74.018221,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0105",
+    "name": "The Larder Greenpoint",
+    "description": "The Larder Greenpoint is a refined restaurant in Greenpoint, NYC, known for open kitchen, natural wine, farm-to-table. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "restaurant",
+    "lat": 40.729536,
+    "lng": -73.958107,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0106",
+    "name": "Cervena 12",
+    "description": "Cervena 12 is a neighborhood restaurant in Sunnyside, NYC, known for tasting menu, farm-to-table, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Sunnyside",
+    "category": "restaurant",
+    "lat": 40.748854,
+    "lng": -73.912512,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0107",
+    "name": "Cervena 13",
+    "description": "Cervena 13 is a buzzy restaurant in Sunnyside, NYC, known for farm-to-table, shareable plates, open kitchen. It's a moderately priced spot.",
+    "neighborhood": "Sunnyside",
+    "category": "restaurant",
+    "lat": 40.739371,
+    "lng": -73.917861,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0108",
+    "name": "Lila Jackson",
+    "description": "Lila Jackson is a buzzy restaurant in Jackson Heights, NYC, known for open kitchen, shareable plates, tasting menu. It's a moderately priced spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "restaurant",
+    "lat": 40.756738,
+    "lng": -73.882231,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0109",
+    "name": "Saffron House Sunnyside",
+    "description": "Saffron House Sunnyside is a neighborhood restaurant in Sunnyside, NYC, known for tasting menu, open kitchen, farm-to-table. It's a upscale spot.",
+    "neighborhood": "Sunnyside",
+    "category": "restaurant",
+    "lat": 40.75052,
+    "lng": -73.921384,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0110",
+    "name": "Maison Olive Red",
+    "description": "Maison Olive Red is a refined restaurant in Red Hook, NYC, known for open kitchen, natural wine, shareable plates. It's a upscale spot.",
+    "neighborhood": "Red Hook",
+    "category": "restaurant",
+    "lat": 40.680948,
+    "lng": -74.00686,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0111",
+    "name": "The Quarter 5",
+    "description": "The Quarter 5 is a seasonal restaurant in Bushwick, NYC, known for natural wine, shareable plates, farm-to-table. It's a budget-friendly spot.",
+    "neighborhood": "Bushwick",
+    "category": "restaurant",
+    "lat": 40.701884,
+    "lng": -73.922494,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0112",
+    "name": "Maison Olive 11",
+    "description": "Maison Olive 11 is a neighborhood restaurant in Sunnyside, NYC, known for tasting menu, open kitchen, shareable plates. It's a budget-friendly spot.",
+    "neighborhood": "Sunnyside",
+    "category": "restaurant",
+    "lat": 40.752799,
+    "lng": -73.928103,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0113",
+    "name": "Cervena Midtown",
+    "description": "Cervena Midtown is a neighborhood restaurant in Midtown, NYC, known for farm-to-table, shareable plates, open kitchen. It's a upscale spot.",
+    "neighborhood": "Midtown",
+    "category": "restaurant",
+    "lat": 40.762087,
+    "lng": -73.9864,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0114",
+    "name": "The Larder Cobble",
+    "description": "The Larder Cobble is a neighborhood restaurant in Cobble Hill, NYC, known for open kitchen, farm-to-table, shareable plates. It's a upscale spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "restaurant",
+    "lat": 40.678668,
+    "lng": -73.993477,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0115",
+    "name": "The Larder 9",
+    "description": "The Larder 9 is a bustling restaurant in Upper West Side, NYC, known for farm-to-table, natural wine, tasting menu. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "restaurant",
+    "lat": 40.780327,
+    "lng": -73.979411,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0116",
+    "name": "Saffron House 6",
+    "description": "Saffron House 6 is a buzzy restaurant in West Village, NYC, known for shareable plates, natural wine, tasting menu. It's a upscale spot.",
+    "neighborhood": "West Village",
+    "category": "restaurant",
+    "lat": 40.734414,
+    "lng": -74.008716,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0117",
+    "name": "The Larder 10",
+    "description": "The Larder 10 is a refined restaurant in Dumbo, NYC, known for tasting menu, natural wine, farm-to-table. It's a upscale spot.",
+    "neighborhood": "Dumbo",
+    "category": "restaurant",
+    "lat": 40.70549,
+    "lng": -73.990449,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0118",
+    "name": "Cervena 14",
+    "description": "Cervena 14 is a buzzy restaurant in Bushwick, NYC, known for open kitchen, shareable plates, tasting menu. It's a budget-friendly spot.",
+    "neighborhood": "Bushwick",
+    "category": "restaurant",
+    "lat": 40.689507,
+    "lng": -73.931112,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0119",
+    "name": "Saffron House 7",
+    "description": "Saffron House 7 is a neighborhood restaurant in Ridgewood, NYC, known for tasting menu, farm-to-table, natural wine. It's a upscale spot.",
+    "neighborhood": "Ridgewood",
+    "category": "restaurant",
+    "lat": 40.708905,
+    "lng": -73.895247,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0120",
+    "name": "The Watering Hole",
+    "description": "The Watering Hole is a laid-back bar in Cobble Hill, NYC, known for back patio, sports on TV, craft beer. It's a upscale spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "bar",
+    "lat": 40.697287,
+    "lng": -73.989033,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0121",
+    "name": "The Watering Hole Upper",
+    "description": "The Watering Hole Upper is a friendly bar in Upper West Side, NYC, known for pool table, sports on TV, back patio. It's a moderately priced spot.",
+    "neighborhood": "Upper West Side",
+    "category": "bar",
+    "lat": 40.782905,
+    "lng": -73.965841,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0122",
+    "name": "The Anchor",
+    "description": "The Anchor is a no-frills bar in Upper East Side, NYC, known for craft beer, back patio, happy hour. It's a moderately priced spot.",
+    "neighborhood": "Upper East Side",
+    "category": "bar",
+    "lat": 40.779115,
+    "lng": -73.961998,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0123",
+    "name": "Hudson Tap",
+    "description": "Hudson Tap is a friendly bar in Upper West Side, NYC, known for happy hour, craft beer, sports on TV. It's a upscale spot.",
+    "neighborhood": "Upper West Side",
+    "category": "bar",
+    "lat": 40.789927,
+    "lng": -73.979221,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0124",
+    "name": "Brass Monkey",
+    "description": "Brass Monkey is a lively bar in West Village, NYC, known for happy hour, craft beer, pool table. It's a moderately priced spot.",
+    "neighborhood": "West Village",
+    "category": "bar",
+    "lat": 40.732334,
+    "lng": -74.00529,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0125",
+    "name": "Brass Monkey Tribeca",
+    "description": "Brass Monkey Tribeca is a friendly bar in Tribeca, NYC, known for sports on TV, pool table, craft beer. It's a upscale spot.",
+    "neighborhood": "Tribeca",
+    "category": "bar",
+    "lat": 40.711439,
+    "lng": -74.002106,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0126",
+    "name": "Local 9",
+    "description": "Local 9 is a lively bar in Long Island City, NYC, known for sports on TV, craft beer, happy hour. It's a upscale spot.",
+    "neighborhood": "Long Island City",
+    "category": "bar",
+    "lat": 40.753958,
+    "lng": -73.955685,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0127",
+    "name": "The Watering Hole Jackson",
+    "description": "The Watering Hole Jackson is a divey bar in Jackson Heights, NYC, known for pool table, sports on TV, craft beer. It's a splurge-worthy spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "bar",
+    "lat": 40.761514,
+    "lng": -73.892822,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0128",
+    "name": "The Watering Hole SoHo",
+    "description": "The Watering Hole SoHo is a lively bar in SoHo, NYC, known for sports on TV, back patio, pool table. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "bar",
+    "lat": 40.732106,
+    "lng": -74.010833,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0129",
+    "name": "The Anchor Bushwick",
+    "description": "The Anchor Bushwick is a friendly bar in Bushwick, NYC, known for pool table, sports on TV, back patio. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "bar",
+    "lat": 40.688827,
+    "lng": -73.930036,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0130",
+    "name": "Local 9 Sunnyside",
+    "description": "Local 9 Sunnyside is a friendly bar in Sunnyside, NYC, known for craft beer, happy hour, pool table. It's a upscale spot.",
+    "neighborhood": "Sunnyside",
+    "category": "bar",
+    "lat": 40.752325,
+    "lng": -73.923513,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0131",
+    "name": "The Anchor SoHo",
+    "description": "The Anchor SoHo is a divey bar in SoHo, NYC, known for pool table, happy hour, back patio. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "bar",
+    "lat": 40.722373,
+    "lng": -73.99959,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0132",
+    "name": "Brass Monkey Financial",
+    "description": "Brass Monkey Financial is a friendly bar in Financial District, NYC, known for happy hour, back patio, sports on TV. It's a upscale spot.",
+    "neighborhood": "Financial District",
+    "category": "bar",
+    "lat": 40.69948,
+    "lng": -74.011513,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0133",
+    "name": "The Anchor Upper",
+    "description": "The Anchor Upper is a laid-back bar in Upper East Side, NYC, known for happy hour, back patio, pool table. It's a upscale spot.",
+    "neighborhood": "Upper East Side",
+    "category": "bar",
+    "lat": 40.782611,
+    "lng": -73.949491,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0134",
+    "name": "Local 9 Fort",
+    "description": "Local 9 Fort is a friendly bar in Fort Greene, NYC, known for sports on TV, craft beer, happy hour. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "bar",
+    "lat": 40.687518,
+    "lng": -73.964636,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0135",
+    "name": "Hudson Tap East",
+    "description": "Hudson Tap East is a lively bar in East Village, NYC, known for pool table, craft beer, back patio. It's a upscale spot.",
+    "neighborhood": "East Village",
+    "category": "bar",
+    "lat": 40.732236,
+    "lng": -73.986629,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0136",
+    "name": "Brass Monkey Long",
+    "description": "Brass Monkey Long is a no-frills bar in Long Island City, NYC, known for pool table, happy hour, sports on TV. It's a moderately priced spot.",
+    "neighborhood": "Long Island City",
+    "category": "bar",
+    "lat": 40.739019,
+    "lng": -73.941106,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0137",
+    "name": "Hudson Tap Astoria",
+    "description": "Hudson Tap Astoria is a lively bar in Astoria, NYC, known for pool table, craft beer, happy hour. It's a upscale spot.",
+    "neighborhood": "Astoria",
+    "category": "bar",
+    "lat": 40.771568,
+    "lng": -73.930606,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0138",
+    "name": "Local 9 Park",
+    "description": "Local 9 Park is a lively bar in Park Slope, NYC, known for craft beer, pool table, back patio. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "bar",
+    "lat": 40.661297,
+    "lng": -73.9756,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0139",
+    "name": "Local 9 Dumbo",
+    "description": "Local 9 Dumbo is a laid-back bar in Dumbo, NYC, known for sports on TV, craft beer, back patio. It's a budget-friendly spot.",
+    "neighborhood": "Dumbo",
+    "category": "bar",
+    "lat": 40.708134,
+    "lng": -73.987578,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0140",
+    "name": "The Watering Hole Bushwick",
+    "description": "The Watering Hole Bushwick is a laid-back bar in Bushwick, NYC, known for pool table, craft beer, happy hour. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "bar",
+    "lat": 40.694477,
+    "lng": -73.912392,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0141",
+    "name": "Brass Monkey Red",
+    "description": "Brass Monkey Red is a laid-back bar in Red Hook, NYC, known for craft beer, pool table, happy hour. It's a moderately priced spot.",
+    "neighborhood": "Red Hook",
+    "category": "bar",
+    "lat": 40.682046,
+    "lng": -74.011375,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0142",
+    "name": "The Watering Hole 3",
+    "description": "The Watering Hole 3 is a divey bar in Bushwick, NYC, known for craft beer, sports on TV, back patio. It's a budget-friendly spot.",
+    "neighborhood": "Bushwick",
+    "category": "bar",
+    "lat": 40.687367,
+    "lng": -73.928776,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0143",
+    "name": "Brass Monkey Cobble",
+    "description": "Brass Monkey Cobble is a divey bar in Cobble Hill, NYC, known for sports on TV, back patio, pool table. It's a moderately priced spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "bar",
+    "lat": 40.687911,
+    "lng": -73.997026,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0144",
+    "name": "The Anchor Financial",
+    "description": "The Anchor Financial is a no-frills bar in Financial District, NYC, known for craft beer, happy hour, back patio. It's a upscale spot.",
+    "neighborhood": "Financial District",
+    "category": "bar",
+    "lat": 40.706531,
+    "lng": -74.01673,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0145",
+    "name": "The Watering Hole Flushing",
+    "description": "The Watering Hole Flushing is a lively bar in Flushing, NYC, known for craft beer, sports on TV, happy hour. It's a moderately priced spot.",
+    "neighborhood": "Flushing",
+    "category": "bar",
+    "lat": 40.76375,
+    "lng": -73.838002,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0146",
+    "name": "The Watering Hole Fort",
+    "description": "The Watering Hole Fort is a lively bar in Fort Greene, NYC, known for craft beer, pool table, happy hour. It's a budget-friendly spot.",
+    "neighborhood": "Fort Greene",
+    "category": "bar",
+    "lat": 40.683931,
+    "lng": -73.969224,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0147",
+    "name": "The Anchor Park",
+    "description": "The Anchor Park is a friendly bar in Park Slope, NYC, known for pool table, sports on TV, back patio. It's a moderately priced spot.",
+    "neighborhood": "Park Slope",
+    "category": "bar",
+    "lat": 40.663445,
+    "lng": -73.984328,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0148",
+    "name": "The Anchor Jackson",
+    "description": "The Anchor Jackson is a lively bar in Jackson Heights, NYC, known for pool table, sports on TV, happy hour. It's a splurge-worthy spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "bar",
+    "lat": 40.747772,
+    "lng": -73.882952,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0149",
+    "name": "The Watering Hole 4",
+    "description": "The Watering Hole 4 is a divey bar in Fort Greene, NYC, known for craft beer, sports on TV, back patio. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "bar",
+    "lat": 40.689351,
+    "lng": -73.968748,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0150",
+    "name": "The Watering Hole 5",
+    "description": "The Watering Hole 5 is a no-frills bar in Upper West Side, NYC, known for pool table, craft beer, sports on TV. It's a upscale spot.",
+    "neighborhood": "Upper West Side",
+    "category": "bar",
+    "lat": 40.795582,
+    "lng": -73.968811,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0151",
+    "name": "Hudson Tap Lower",
+    "description": "Hudson Tap Lower is a divey bar in Lower East Side, NYC, known for sports on TV, pool table, happy hour. It's a moderately priced spot.",
+    "neighborhood": "Lower East Side",
+    "category": "bar",
+    "lat": 40.705122,
+    "lng": -73.976903,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0152",
+    "name": "The Watering Hole 6",
+    "description": "The Watering Hole 6 is a friendly bar in Fort Greene, NYC, known for craft beer, pool table, sports on TV. It's a budget-friendly spot.",
+    "neighborhood": "Fort Greene",
+    "category": "bar",
+    "lat": 40.69261,
+    "lng": -73.976476,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0153",
+    "name": "Hudson Tap Midtown",
+    "description": "Hudson Tap Midtown is a laid-back bar in Midtown, NYC, known for sports on TV, craft beer, back patio. It's a moderately priced spot.",
+    "neighborhood": "Midtown",
+    "category": "bar",
+    "lat": 40.748012,
+    "lng": -73.978911,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0154",
+    "name": "The Anchor Fort",
+    "description": "The Anchor Fort is a divey bar in Fort Greene, NYC, known for back patio, pool table, sports on TV. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "bar",
+    "lat": 40.690841,
+    "lng": -73.978537,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0155",
+    "name": "Local 9 SoHo",
+    "description": "Local 9 SoHo is a friendly bar in SoHo, NYC, known for sports on TV, back patio, pool table. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "bar",
+    "lat": 40.726643,
+    "lng": -74.012092,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0156",
+    "name": "The Anchor Bedford-Stuyvesant",
+    "description": "The Anchor Bedford-Stuyvesant is a laid-back bar in Bedford-Stuyvesant, NYC, known for sports on TV, happy hour, craft beer. It's a budget-friendly spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "bar",
+    "lat": 40.692483,
+    "lng": -73.946011,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0157",
+    "name": "The Watering Hole Lower",
+    "description": "The Watering Hole Lower is a divey bar in Lower East Side, NYC, known for happy hour, pool table, back patio. It's a upscale spot.",
+    "neighborhood": "Lower East Side",
+    "category": "bar",
+    "lat": 40.715652,
+    "lng": -73.989698,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0158",
+    "name": "Local 9 Flushing",
+    "description": "Local 9 Flushing is a no-frills bar in Flushing, NYC, known for craft beer, back patio, pool table. It's a budget-friendly spot.",
+    "neighborhood": "Flushing",
+    "category": "bar",
+    "lat": 40.766695,
+    "lng": -73.841543,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0159",
+    "name": "The Watering Hole Dumbo",
+    "description": "The Watering Hole Dumbo is a lively bar in Dumbo, NYC, known for back patio, sports on TV, craft beer. It's a moderately priced spot.",
+    "neighborhood": "Dumbo",
+    "category": "bar",
+    "lat": 40.701401,
+    "lng": -73.978776,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0160",
+    "name": "Brass Monkey 3",
+    "description": "Brass Monkey 3 is a divey bar in Long Island City, NYC, known for sports on TV, craft beer, happy hour. It's a moderately priced spot.",
+    "neighborhood": "Long Island City",
+    "category": "bar",
+    "lat": 40.75159,
+    "lng": -73.953634,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0161",
+    "name": "Brass Monkey Hell's",
+    "description": "Brass Monkey Hell's is a divey bar in Hell's Kitchen, NYC, known for sports on TV, pool table, craft beer. It's a budget-friendly spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "bar",
+    "lat": 40.760461,
+    "lng": -73.998437,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0162",
+    "name": "The Anchor Cobble",
+    "description": "The Anchor Cobble is a lively bar in Cobble Hill, NYC, known for happy hour, sports on TV, pool table. It's a moderately priced spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "bar",
+    "lat": 40.691848,
+    "lng": -73.989721,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0163",
+    "name": "The Anchor 3",
+    "description": "The Anchor 3 is a laid-back bar in Upper West Side, NYC, known for happy hour, pool table, sports on TV. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "bar",
+    "lat": 40.780057,
+    "lng": -73.970217,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0164",
+    "name": "The Watering Hole Chelsea",
+    "description": "The Watering Hole Chelsea is a divey bar in Chelsea, NYC, known for pool table, back patio, sports on TV. It's a moderately priced spot.",
+    "neighborhood": "Chelsea",
+    "category": "bar",
+    "lat": 40.754983,
+    "lng": -74.00011,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0165",
+    "name": "Local 9 Midtown",
+    "description": "Local 9 Midtown is a divey bar in Midtown, NYC, known for craft beer, back patio, happy hour. It's a budget-friendly spot.",
+    "neighborhood": "Midtown",
+    "category": "bar",
+    "lat": 40.757528,
+    "lng": -73.978073,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0166",
+    "name": "Local 9 West",
+    "description": "Local 9 West is a no-frills bar in West Village, NYC, known for sports on TV, back patio, happy hour. It's a moderately priced spot.",
+    "neighborhood": "West Village",
+    "category": "bar",
+    "lat": 40.726552,
+    "lng": -74.006225,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0167",
+    "name": "The Anchor East",
+    "description": "The Anchor East is a laid-back bar in East Village, NYC, known for pool table, back patio, happy hour. It's a upscale spot.",
+    "neighborhood": "East Village",
+    "category": "bar",
+    "lat": 40.728107,
+    "lng": -73.972415,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0168",
+    "name": "Brass Monkey Williamsburg",
+    "description": "Brass Monkey Williamsburg is a laid-back bar in Williamsburg, NYC, known for sports on TV, back patio, pool table. It's a upscale spot.",
+    "neighborhood": "Williamsburg",
+    "category": "bar",
+    "lat": 40.701117,
+    "lng": -73.965863,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0169",
+    "name": "Local 9 Long",
+    "description": "Local 9 Long is a friendly bar in Long Island City, NYC, known for craft beer, happy hour, pool table. It's a splurge-worthy spot.",
+    "neighborhood": "Long Island City",
+    "category": "bar",
+    "lat": 40.739655,
+    "lng": -73.949745,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0170",
+    "name": "Brass Monkey Greenpoint",
+    "description": "Brass Monkey Greenpoint is a divey bar in Greenpoint, NYC, known for sports on TV, pool table, happy hour. It's a upscale spot.",
+    "neighborhood": "Greenpoint",
+    "category": "bar",
+    "lat": 40.728148,
+    "lng": -73.945511,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0171",
+    "name": "Local 9 3",
+    "description": "Local 9 3 is a divey bar in West Village, NYC, known for craft beer, back patio, happy hour. It's a budget-friendly spot.",
+    "neighborhood": "West Village",
+    "category": "bar",
+    "lat": 40.73084,
+    "lng": -73.996569,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0172",
+    "name": "Hudson Tap Jackson",
+    "description": "Hudson Tap Jackson is a friendly bar in Jackson Heights, NYC, known for pool table, happy hour, back patio. It's a moderately priced spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "bar",
+    "lat": 40.751905,
+    "lng": -73.879979,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0173",
+    "name": "Brass Monkey 4",
+    "description": "Brass Monkey 4 is a lively bar in Tribeca, NYC, known for craft beer, sports on TV, back patio. It's a upscale spot.",
+    "neighborhood": "Tribeca",
+    "category": "bar",
+    "lat": 40.713834,
+    "lng": -74.002767,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0174",
+    "name": "Brass Monkey Fort",
+    "description": "Brass Monkey Fort is a lively bar in Fort Greene, NYC, known for back patio, sports on TV, craft beer. It's a budget-friendly spot.",
+    "neighborhood": "Fort Greene",
+    "category": "bar",
+    "lat": 40.689252,
+    "lng": -73.980395,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0175",
+    "name": "The Watering Hole Midtown",
+    "description": "The Watering Hole Midtown is a divey bar in Midtown, NYC, known for happy hour, pool table, craft beer. It's a budget-friendly spot.",
+    "neighborhood": "Midtown",
+    "category": "bar",
+    "lat": 40.750816,
+    "lng": -73.978238,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0176",
+    "name": "Brass Monkey Astoria",
+    "description": "Brass Monkey Astoria is a lively bar in Astoria, NYC, known for pool table, craft beer, sports on TV. It's a upscale spot.",
+    "neighborhood": "Astoria",
+    "category": "bar",
+    "lat": 40.761135,
+    "lng": -73.918174,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0177",
+    "name": "The Watering Hole Bedford-Stuyvesant",
+    "description": "The Watering Hole Bedford-Stuyvesant is a lively bar in Bedford-Stuyvesant, NYC, known for happy hour, pool table, sports on TV. It's a budget-friendly spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "bar",
+    "lat": 40.685953,
+    "lng": -73.943583,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0178",
+    "name": "Brass Monkey 5",
+    "description": "Brass Monkey 5 is a friendly bar in Williamsburg, NYC, known for back patio, happy hour, sports on TV. It's a moderately priced spot.",
+    "neighborhood": "Williamsburg",
+    "category": "bar",
+    "lat": 40.702883,
+    "lng": -73.947788,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0179",
+    "name": "Hudson Tap Ridgewood",
+    "description": "Hudson Tap Ridgewood is a divey bar in Ridgewood, NYC, known for pool table, back patio, happy hour. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "bar",
+    "lat": 40.705389,
+    "lng": -73.899438,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0180",
+    "name": "The Watering Hole Greenpoint",
+    "description": "The Watering Hole Greenpoint is a no-frills bar in Greenpoint, NYC, known for happy hour, pool table, back patio. It's a splurge-worthy spot.",
+    "neighborhood": "Greenpoint",
+    "category": "bar",
+    "lat": 40.721444,
+    "lng": -73.951388,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0181",
+    "name": "The Anchor 4",
+    "description": "The Anchor 4 is a friendly bar in Park Slope, NYC, known for pool table, craft beer, happy hour. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "bar",
+    "lat": 40.662678,
+    "lng": -73.988194,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0182",
+    "name": "Brass Monkey Ridgewood",
+    "description": "Brass Monkey Ridgewood is a laid-back bar in Ridgewood, NYC, known for back patio, craft beer, pool table. It's a budget-friendly spot.",
+    "neighborhood": "Ridgewood",
+    "category": "bar",
+    "lat": 40.706334,
+    "lng": -73.897307,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0183",
+    "name": "The Anchor 5",
+    "description": "The Anchor 5 is a laid-back bar in Financial District, NYC, known for sports on TV, happy hour, back patio. It's a moderately priced spot.",
+    "neighborhood": "Financial District",
+    "category": "bar",
+    "lat": 40.717391,
+    "lng": -74.013802,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0184",
+    "name": "The Anchor Midtown",
+    "description": "The Anchor Midtown is a friendly bar in Midtown, NYC, known for sports on TV, happy hour, craft beer. It's a upscale spot.",
+    "neighborhood": "Midtown",
+    "category": "bar",
+    "lat": 40.745666,
+    "lng": -73.975652,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0185",
+    "name": "Hudson Tap Crown",
+    "description": "Hudson Tap Crown is a no-frills bar in Crown Heights, NYC, known for back patio, pool table, sports on TV. It's a upscale spot.",
+    "neighborhood": "Crown Heights",
+    "category": "bar",
+    "lat": 40.659505,
+    "lng": -73.952615,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0186",
+    "name": "Hudson Tap Greenwich",
+    "description": "Hudson Tap Greenwich is a laid-back bar in Greenwich Village, NYC, known for pool table, back patio, craft beer. It's a moderately priced spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "bar",
+    "lat": 40.739123,
+    "lng": -74.007947,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0187",
+    "name": "Hudson Tap West",
+    "description": "Hudson Tap West is a divey bar in West Village, NYC, known for pool table, back patio, craft beer. It's a moderately priced spot.",
+    "neighborhood": "West Village",
+    "category": "bar",
+    "lat": 40.728017,
+    "lng": -73.995497,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0188",
+    "name": "The Anchor 6",
+    "description": "The Anchor 6 is a divey bar in Park Slope, NYC, known for pool table, happy hour, sports on TV. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "bar",
+    "lat": 40.663872,
+    "lng": -73.982815,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0189",
+    "name": "Hudson Tap Nolita",
+    "description": "Hudson Tap Nolita is a divey bar in Nolita, NYC, known for happy hour, craft beer, sports on TV. It's a moderately priced spot.",
+    "neighborhood": "Nolita",
+    "category": "bar",
+    "lat": 40.731893,
+    "lng": -74.004146,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0190",
+    "name": "Foglia",
+    "description": "Foglia is a charming cafe in Park Slope, NYC, known for matcha, single-origin coffee, pastries. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "cafe",
+    "lat": 40.678467,
+    "lng": -73.990529,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0191",
+    "name": "The Reading Room",
+    "description": "The Reading Room is a cozy cafe in Nolita, NYC, known for laptop-friendly, single-origin coffee, pastries. It's a upscale spot.",
+    "neighborhood": "Nolita",
+    "category": "cafe",
+    "lat": 40.717223,
+    "lng": -73.992358,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0192",
+    "name": "Foglia Astoria",
+    "description": "Foglia Astoria is a sunlit cafe in Astoria, NYC, known for laptop-friendly, pastries, single-origin coffee. It's a upscale spot.",
+    "neighborhood": "Astoria",
+    "category": "cafe",
+    "lat": 40.761446,
+    "lng": -73.926729,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0193",
+    "name": "Saint Espresso",
+    "description": "Saint Espresso is a charming cafe in Flushing, NYC, known for oat milk, pastries, single-origin coffee. It's a splurge-worthy spot.",
+    "neighborhood": "Flushing",
+    "category": "cafe",
+    "lat": 40.758762,
+    "lng": -73.827576,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0194",
+    "name": "The Reading Room West",
+    "description": "The Reading Room West is a quiet cafe in West Village, NYC, known for pastries, single-origin coffee, matcha. It's a moderately priced spot.",
+    "neighborhood": "West Village",
+    "category": "cafe",
+    "lat": 40.744467,
+    "lng": -74.003292,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0195",
+    "name": "The Reading Room Bushwick",
+    "description": "The Reading Room Bushwick is a minimalist cafe in Bushwick, NYC, known for pastries, laptop-friendly, matcha. It's a budget-friendly spot.",
+    "neighborhood": "Bushwick",
+    "category": "cafe",
+    "lat": 40.701643,
+    "lng": -73.930344,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0196",
+    "name": "Daybreak",
+    "description": "Daybreak is a minimalist cafe in Upper East Side, NYC, known for oat milk, matcha, laptop-friendly. It's a upscale spot.",
+    "neighborhood": "Upper East Side",
+    "category": "cafe",
+    "lat": 40.772395,
+    "lng": -73.94747,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0197",
+    "name": "Saint Espresso Chelsea",
+    "description": "Saint Espresso Chelsea is a quiet cafe in Chelsea, NYC, known for laptop-friendly, matcha, single-origin coffee. It's a upscale spot.",
+    "neighborhood": "Chelsea",
+    "category": "cafe",
+    "lat": 40.751042,
+    "lng": -74.009821,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0198",
+    "name": "Ember Coffee",
+    "description": "Ember Coffee is a charming cafe in Flushing, NYC, known for laptop-friendly, single-origin coffee, oat milk. It's a moderately priced spot.",
+    "neighborhood": "Flushing",
+    "category": "cafe",
+    "lat": 40.764058,
+    "lng": -73.837187,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0199",
+    "name": "Saint Espresso Bedford-Stuyvesant",
+    "description": "Saint Espresso Bedford-Stuyvesant is a minimalist cafe in Bedford-Stuyvesant, NYC, known for oat milk, laptop-friendly, pastries. It's a budget-friendly spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "cafe",
+    "lat": 40.678047,
+    "lng": -73.934399,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0200",
+    "name": "Saint Espresso 3",
+    "description": "Saint Espresso 3 is a sunlit cafe in Bedford-Stuyvesant, NYC, known for single-origin coffee, matcha, laptop-friendly. It's a moderately priced spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "cafe",
+    "lat": 40.68995,
+    "lng": -73.944534,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0201",
+    "name": "Ember Coffee Lower",
+    "description": "Ember Coffee Lower is a minimalist cafe in Lower East Side, NYC, known for oat milk, single-origin coffee, matcha. It's a upscale spot.",
+    "neighborhood": "Lower East Side",
+    "category": "cafe",
+    "lat": 40.706345,
+    "lng": -73.97873,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0202",
+    "name": "Saint Espresso Nolita",
+    "description": "Saint Espresso Nolita is a charming cafe in Nolita, NYC, known for single-origin coffee, pastries, laptop-friendly. It's a splurge-worthy spot.",
+    "neighborhood": "Nolita",
+    "category": "cafe",
+    "lat": 40.721398,
+    "lng": -73.998081,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0203",
+    "name": "Daybreak Astoria",
+    "description": "Daybreak Astoria is a cozy cafe in Astoria, NYC, known for matcha, laptop-friendly, pastries. It's a moderately priced spot.",
+    "neighborhood": "Astoria",
+    "category": "cafe",
+    "lat": 40.760688,
+    "lng": -73.927926,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0204",
+    "name": "Ember Coffee 3",
+    "description": "Ember Coffee 3 is a sunlit cafe in Lower East Side, NYC, known for oat milk, single-origin coffee, pastries. It's a moderately priced spot.",
+    "neighborhood": "Lower East Side",
+    "category": "cafe",
+    "lat": 40.720499,
+    "lng": -73.980219,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0205",
+    "name": "The Reading Room Bedford-Stuyvesant",
+    "description": "The Reading Room Bedford-Stuyvesant is a sunlit cafe in Bedford-Stuyvesant, NYC, known for oat milk, pastries, single-origin coffee. It's a upscale spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "cafe",
+    "lat": 40.679915,
+    "lng": -73.950319,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0206",
+    "name": "Saint Espresso Ridgewood",
+    "description": "Saint Espresso Ridgewood is a minimalist cafe in Ridgewood, NYC, known for laptop-friendly, matcha, oat milk. It's a splurge-worthy spot.",
+    "neighborhood": "Ridgewood",
+    "category": "cafe",
+    "lat": 40.691299,
+    "lng": -73.904157,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0207",
+    "name": "Ember Coffee Jackson",
+    "description": "Ember Coffee Jackson is a sunlit cafe in Jackson Heights, NYC, known for pastries, laptop-friendly, oat milk. It's a upscale spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "cafe",
+    "lat": 40.750185,
+    "lng": -73.873397,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0208",
+    "name": "Saint Espresso Upper",
+    "description": "Saint Espresso Upper is a quiet cafe in Upper West Side, NYC, known for matcha, laptop-friendly, pastries. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "cafe",
+    "lat": 40.793073,
+    "lng": -73.974367,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0209",
+    "name": "Daybreak Ridgewood",
+    "description": "Daybreak Ridgewood is a quiet cafe in Ridgewood, NYC, known for oat milk, matcha, laptop-friendly. It's a budget-friendly spot.",
+    "neighborhood": "Ridgewood",
+    "category": "cafe",
+    "lat": 40.698216,
+    "lng": -73.906811,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0210",
+    "name": "Ember Coffee East",
+    "description": "Ember Coffee East is a quiet cafe in East Village, NYC, known for single-origin coffee, oat milk, pastries. It's a splurge-worthy spot.",
+    "neighborhood": "East Village",
+    "category": "cafe",
+    "lat": 40.730102,
+    "lng": -73.98461,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0211",
+    "name": "Foglia Cobble",
+    "description": "Foglia Cobble is a cozy cafe in Cobble Hill, NYC, known for pastries, oat milk, laptop-friendly. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "cafe",
+    "lat": 40.695514,
+    "lng": -74.004992,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0212",
+    "name": "Ember Coffee Greenpoint",
+    "description": "Ember Coffee Greenpoint is a quiet cafe in Greenpoint, NYC, known for pastries, laptop-friendly, oat milk. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "cafe",
+    "lat": 40.724909,
+    "lng": -73.94205,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0213",
+    "name": "The Reading Room Ridgewood",
+    "description": "The Reading Room Ridgewood is a minimalist cafe in Ridgewood, NYC, known for laptop-friendly, pastries, matcha. It's a upscale spot.",
+    "neighborhood": "Ridgewood",
+    "category": "cafe",
+    "lat": 40.709127,
+    "lng": -73.909511,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0214",
+    "name": "Foglia Bedford-Stuyvesant",
+    "description": "Foglia Bedford-Stuyvesant is a quiet cafe in Bedford-Stuyvesant, NYC, known for pastries, matcha, single-origin coffee. It's a budget-friendly spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "cafe",
+    "lat": 40.690375,
+    "lng": -73.937387,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0215",
+    "name": "Foglia Midtown",
+    "description": "Foglia Midtown is a minimalist cafe in Midtown, NYC, known for single-origin coffee, matcha, oat milk. It's a budget-friendly spot.",
+    "neighborhood": "Midtown",
+    "category": "cafe",
+    "lat": 40.763871,
+    "lng": -73.97858,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0216",
+    "name": "Ember Coffee Cobble",
+    "description": "Ember Coffee Cobble is a minimalist cafe in Cobble Hill, NYC, known for oat milk, single-origin coffee, pastries. It's a upscale spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "cafe",
+    "lat": 40.69508,
+    "lng": -73.995188,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0217",
+    "name": "Ember Coffee Bushwick",
+    "description": "Ember Coffee Bushwick is a charming cafe in Bushwick, NYC, known for oat milk, laptop-friendly, pastries. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "cafe",
+    "lat": 40.685859,
+    "lng": -73.930102,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0218",
+    "name": "Saint Espresso Financial",
+    "description": "Saint Espresso Financial is a minimalist cafe in Financial District, NYC, known for laptop-friendly, pastries, oat milk. It's a moderately priced spot.",
+    "neighborhood": "Financial District",
+    "category": "cafe",
+    "lat": 40.71473,
+    "lng": -74.014914,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0219",
+    "name": "Ember Coffee Hell's",
+    "description": "Ember Coffee Hell's is a charming cafe in Hell's Kitchen, NYC, known for matcha, single-origin coffee, pastries. It's a upscale spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "cafe",
+    "lat": 40.758635,
+    "lng": -73.99935,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0220",
+    "name": "Ember Coffee Upper",
+    "description": "Ember Coffee Upper is a sunlit cafe in Upper West Side, NYC, known for laptop-friendly, oat milk, matcha. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "cafe",
+    "lat": 40.785363,
+    "lng": -73.966146,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0221",
+    "name": "The Reading Room Flushing",
+    "description": "The Reading Room Flushing is a charming cafe in Flushing, NYC, known for laptop-friendly, pastries, single-origin coffee. It's a splurge-worthy spot.",
+    "neighborhood": "Flushing",
+    "category": "cafe",
+    "lat": 40.767465,
+    "lng": -73.832806,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0222",
+    "name": "The Reading Room 3",
+    "description": "The Reading Room 3 is a quiet cafe in Ridgewood, NYC, known for single-origin coffee, oat milk, laptop-friendly. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "cafe",
+    "lat": 40.699145,
+    "lng": -73.910185,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0223",
+    "name": "Daybreak Nolita",
+    "description": "Daybreak Nolita is a charming cafe in Nolita, NYC, known for oat milk, matcha, pastries. It's a budget-friendly spot.",
+    "neighborhood": "Nolita",
+    "category": "cafe",
+    "lat": 40.723134,
+    "lng": -73.988557,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0224",
+    "name": "The Reading Room Tribeca",
+    "description": "The Reading Room Tribeca is a sunlit cafe in Tribeca, NYC, known for oat milk, laptop-friendly, single-origin coffee. It's a upscale spot.",
+    "neighborhood": "Tribeca",
+    "category": "cafe",
+    "lat": 40.714312,
+    "lng": -74.007194,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0225",
+    "name": "Foglia Nolita",
+    "description": "Foglia Nolita is a quiet cafe in Nolita, NYC, known for oat milk, matcha, laptop-friendly. It's a moderately priced spot.",
+    "neighborhood": "Nolita",
+    "category": "cafe",
+    "lat": 40.717994,
+    "lng": -73.985718,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0226",
+    "name": "Ember Coffee SoHo",
+    "description": "Ember Coffee SoHo is a sunlit cafe in SoHo, NYC, known for oat milk, laptop-friendly, pastries. It's a splurge-worthy spot.",
+    "neighborhood": "SoHo",
+    "category": "cafe",
+    "lat": 40.724457,
+    "lng": -74.005688,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0227",
+    "name": "Foglia Greenwich",
+    "description": "Foglia Greenwich is a charming cafe in Greenwich Village, NYC, known for matcha, single-origin coffee, oat milk. It's a moderately priced spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "cafe",
+    "lat": 40.724378,
+    "lng": -73.998428,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0228",
+    "name": "Saint Espresso Greenpoint",
+    "description": "Saint Espresso Greenpoint is a charming cafe in Greenpoint, NYC, known for matcha, pastries, oat milk. It's a budget-friendly spot.",
+    "neighborhood": "Greenpoint",
+    "category": "cafe",
+    "lat": 40.739027,
+    "lng": -73.954629,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0229",
+    "name": "The Reading Room 4",
+    "description": "The Reading Room 4 is a cozy cafe in Bedford-Stuyvesant, NYC, known for matcha, oat milk, laptop-friendly. It's a moderately priced spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "cafe",
+    "lat": 40.688458,
+    "lng": -73.942302,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0230",
+    "name": "The Reading Room Nolita",
+    "description": "The Reading Room Nolita is a quiet cafe in Nolita, NYC, known for oat milk, laptop-friendly, matcha. It's a upscale spot.",
+    "neighborhood": "Nolita",
+    "category": "cafe",
+    "lat": 40.729842,
+    "lng": -73.992915,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0231",
+    "name": "The Reading Room 5",
+    "description": "The Reading Room 5 is a quiet cafe in Bushwick, NYC, known for matcha, pastries, laptop-friendly. It's a splurge-worthy spot.",
+    "neighborhood": "Bushwick",
+    "category": "cafe",
+    "lat": 40.685427,
+    "lng": -73.921691,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0232",
+    "name": "Foglia 3",
+    "description": "Foglia 3 is a cozy cafe in Cobble Hill, NYC, known for oat milk, pastries, laptop-friendly. It's a upscale spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "cafe",
+    "lat": 40.682144,
+    "lng": -73.994649,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0233",
+    "name": "Daybreak Greenwich",
+    "description": "Daybreak Greenwich is a quiet cafe in Greenwich Village, NYC, known for oat milk, pastries, matcha. It's a moderately priced spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "cafe",
+    "lat": 40.73741,
+    "lng": -74.004492,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0234",
+    "name": "Saint Espresso Sunnyside",
+    "description": "Saint Espresso Sunnyside is a charming cafe in Sunnyside, NYC, known for single-origin coffee, pastries, laptop-friendly. It's a upscale spot.",
+    "neighborhood": "Sunnyside",
+    "category": "cafe",
+    "lat": 40.737547,
+    "lng": -73.923099,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0235",
+    "name": "Saint Espresso 4",
+    "description": "Saint Espresso 4 is a minimalist cafe in Greenpoint, NYC, known for pastries, oat milk, laptop-friendly. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "cafe",
+    "lat": 40.727247,
+    "lng": -73.953914,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0236",
+    "name": "Saint Espresso 5",
+    "description": "Saint Espresso 5 is a minimalist cafe in Bedford-Stuyvesant, NYC, known for pastries, laptop-friendly, oat milk. It's a budget-friendly spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "cafe",
+    "lat": 40.68317,
+    "lng": -73.93297,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0237",
+    "name": "The Reading Room Astoria",
+    "description": "The Reading Room Astoria is a minimalist cafe in Astoria, NYC, known for oat milk, laptop-friendly, pastries. It's a upscale spot.",
+    "neighborhood": "Astoria",
+    "category": "cafe",
+    "lat": 40.761376,
+    "lng": -73.914826,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0238",
+    "name": "Daybreak Harlem",
+    "description": "Daybreak Harlem is a sunlit cafe in Harlem, NYC, known for matcha, oat milk, pastries. It's a moderately priced spot.",
+    "neighborhood": "Harlem",
+    "category": "cafe",
+    "lat": 40.817968,
+    "lng": -73.937408,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0239",
+    "name": "Daybreak 3",
+    "description": "Daybreak 3 is a sunlit cafe in Harlem, NYC, known for single-origin coffee, laptop-friendly, pastries. It's a moderately priced spot.",
+    "neighborhood": "Harlem",
+    "category": "cafe",
+    "lat": 40.814719,
+    "lng": -73.941553,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0240",
+    "name": "Foglia 4",
+    "description": "Foglia 4 is a sunlit cafe in Greenwich Village, NYC, known for matcha, laptop-friendly, single-origin coffee. It's a moderately priced spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "cafe",
+    "lat": 40.725785,
+    "lng": -73.997882,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0241",
+    "name": "Daybreak Upper",
+    "description": "Daybreak Upper is a minimalist cafe in Upper West Side, NYC, known for matcha, pastries, laptop-friendly. It's a upscale spot.",
+    "neighborhood": "Upper West Side",
+    "category": "cafe",
+    "lat": 40.781657,
+    "lng": -73.983396,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0242",
+    "name": "Saint Espresso Crown",
+    "description": "Saint Espresso Crown is a charming cafe in Crown Heights, NYC, known for pastries, single-origin coffee, laptop-friendly. It's a budget-friendly spot.",
+    "neighborhood": "Crown Heights",
+    "category": "cafe",
+    "lat": 40.678958,
+    "lng": -73.951041,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0243",
+    "name": "Ember Coffee 4",
+    "description": "Ember Coffee 4 is a cozy cafe in Bushwick, NYC, known for laptop-friendly, matcha, pastries. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "cafe",
+    "lat": 40.697318,
+    "lng": -73.913141,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0244",
+    "name": "Foglia 5",
+    "description": "Foglia 5 is a cozy cafe in Cobble Hill, NYC, known for single-origin coffee, pastries, oat milk. It's a moderately priced spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "cafe",
+    "lat": 40.694945,
+    "lng": -74.002584,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0245",
+    "name": "Saint Espresso Flushing",
+    "description": "Saint Espresso Flushing is a cozy cafe in Flushing, NYC, known for pastries, laptop-friendly, single-origin coffee. It's a upscale spot.",
+    "neighborhood": "Flushing",
+    "category": "cafe",
+    "lat": 40.757685,
+    "lng": -73.831741,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0246",
+    "name": "The Reading Room Sunnyside",
+    "description": "The Reading Room Sunnyside is a sunlit cafe in Sunnyside, NYC, known for matcha, oat milk, single-origin coffee. It's a moderately priced spot.",
+    "neighborhood": "Sunnyside",
+    "category": "cafe",
+    "lat": 40.750421,
+    "lng": -73.92024,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0247",
+    "name": "Daybreak Long",
+    "description": "Daybreak Long is a minimalist cafe in Long Island City, NYC, known for oat milk, laptop-friendly, matcha. It's a moderately priced spot.",
+    "neighborhood": "Long Island City",
+    "category": "cafe",
+    "lat": 40.738424,
+    "lng": -73.943768,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0248",
+    "name": "Ember Coffee Dumbo",
+    "description": "Ember Coffee Dumbo is a cozy cafe in Dumbo, NYC, known for oat milk, matcha, laptop-friendly. It's a budget-friendly spot.",
+    "neighborhood": "Dumbo",
+    "category": "cafe",
+    "lat": 40.699859,
+    "lng": -73.990083,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0249",
+    "name": "Ember Coffee Chelsea",
+    "description": "Ember Coffee Chelsea is a minimalist cafe in Chelsea, NYC, known for pastries, single-origin coffee, matcha. It's a moderately priced spot.",
+    "neighborhood": "Chelsea",
+    "category": "cafe",
+    "lat": 40.744171,
+    "lng": -74.002465,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0250",
+    "name": "Decant",
+    "description": "Decant is a intimate wine bar in Midtown, NYC, known for low-lit, natural wine, small plates. It's a moderately priced spot.",
+    "neighborhood": "Midtown",
+    "category": "wine_bar",
+    "lat": 40.757974,
+    "lng": -73.980145,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0251",
+    "name": "Vino & Veritas",
+    "description": "Vino & Veritas is a romantic wine bar in Fort Greene, NYC, known for small plates, by-the-glass, cheese board. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "wine_bar",
+    "lat": 40.69205,
+    "lng": -73.966098,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0252",
+    "name": "Vino & Veritas Crown",
+    "description": "Vino & Veritas Crown is a rustic wine bar in Crown Heights, NYC, known for cheese board, low-lit, by-the-glass. It's a upscale spot.",
+    "neighborhood": "Crown Heights",
+    "category": "wine_bar",
+    "lat": 40.663817,
+    "lng": -73.935053,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0253",
+    "name": "Terroir House",
+    "description": "Terroir House is a elegant wine bar in Tribeca, NYC, known for low-lit, cheese board, small plates. It's a upscale spot.",
+    "neighborhood": "Tribeca",
+    "category": "wine_bar",
+    "lat": 40.720339,
+    "lng": -74.000344,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0254",
+    "name": "The Cellar",
+    "description": "The Cellar is a intimate wine bar in Long Island City, NYC, known for low-lit, natural wine, cheese board. It's a upscale spot.",
+    "neighborhood": "Long Island City",
+    "category": "wine_bar",
+    "lat": 40.743635,
+    "lng": -73.944425,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0255",
+    "name": "Amaro",
+    "description": "Amaro is a elegant wine bar in Sunnyside, NYC, known for low-lit, small plates, cheese board. It's a budget-friendly spot.",
+    "neighborhood": "Sunnyside",
+    "category": "wine_bar",
+    "lat": 40.744133,
+    "lng": -73.926309,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0256",
+    "name": "Vino & Veritas Williamsburg",
+    "description": "Vino & Veritas Williamsburg is a intimate wine bar in Williamsburg, NYC, known for low-lit, by-the-glass, natural wine. It's a upscale spot.",
+    "neighborhood": "Williamsburg",
+    "category": "wine_bar",
+    "lat": 40.716078,
+    "lng": -73.95819,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0257",
+    "name": "The Cellar Williamsburg",
+    "description": "The Cellar Williamsburg is a intimate wine bar in Williamsburg, NYC, known for by-the-glass, natural wine, cheese board. It's a moderately priced spot.",
+    "neighborhood": "Williamsburg",
+    "category": "wine_bar",
+    "lat": 40.707348,
+    "lng": -73.950962,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0258",
+    "name": "Decant Hell's",
+    "description": "Decant Hell's is a elegant wine bar in Hell's Kitchen, NYC, known for small plates, natural wine, by-the-glass. It's a upscale spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "wine_bar",
+    "lat": 40.762274,
+    "lng": -73.987792,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0259",
+    "name": "Vino & Veritas West",
+    "description": "Vino & Veritas West is a rustic wine bar in West Village, NYC, known for by-the-glass, natural wine, small plates. It's a splurge-worthy spot.",
+    "neighborhood": "West Village",
+    "category": "wine_bar",
+    "lat": 40.733977,
+    "lng": -73.998221,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0260",
+    "name": "Terroir House Nolita",
+    "description": "Terroir House Nolita is a elegant wine bar in Nolita, NYC, known for by-the-glass, low-lit, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Nolita",
+    "category": "wine_bar",
+    "lat": 40.726055,
+    "lng": -73.992264,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0261",
+    "name": "Decant Tribeca",
+    "description": "Decant Tribeca is a intimate wine bar in Tribeca, NYC, known for low-lit, by-the-glass, cheese board. It's a budget-friendly spot.",
+    "neighborhood": "Tribeca",
+    "category": "wine_bar",
+    "lat": 40.708847,
+    "lng": -73.999026,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0262",
+    "name": "Vino & Veritas Astoria",
+    "description": "Vino & Veritas Astoria is a rustic wine bar in Astoria, NYC, known for by-the-glass, low-lit, cheese board. It's a splurge-worthy spot.",
+    "neighborhood": "Astoria",
+    "category": "wine_bar",
+    "lat": 40.761986,
+    "lng": -73.928907,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0263",
+    "name": "The Cellar Nolita",
+    "description": "The Cellar Nolita is a intimate wine bar in Nolita, NYC, known for natural wine, low-lit, cheese board. It's a moderately priced spot.",
+    "neighborhood": "Nolita",
+    "category": "wine_bar",
+    "lat": 40.720785,
+    "lng": -73.990179,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0264",
+    "name": "The Cellar Upper",
+    "description": "The Cellar Upper is a intimate wine bar in Upper West Side, NYC, known for low-lit, natural wine, small plates. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "wine_bar",
+    "lat": 40.788956,
+    "lng": -73.971334,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0265",
+    "name": "Vino & Veritas Upper",
+    "description": "Vino & Veritas Upper is a candlelit wine bar in Upper West Side, NYC, known for small plates, low-lit, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Upper West Side",
+    "category": "wine_bar",
+    "lat": 40.779803,
+    "lng": -73.96553,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0266",
+    "name": "Amaro Flushing",
+    "description": "Amaro Flushing is a elegant wine bar in Flushing, NYC, known for low-lit, cheese board, natural wine. It's a moderately priced spot.",
+    "neighborhood": "Flushing",
+    "category": "wine_bar",
+    "lat": 40.763535,
+    "lng": -73.840235,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0267",
+    "name": "Terroir House Upper",
+    "description": "Terroir House Upper is a intimate wine bar in Upper West Side, NYC, known for natural wine, small plates, cheese board. It's a moderately priced spot.",
+    "neighborhood": "Upper West Side",
+    "category": "wine_bar",
+    "lat": 40.790575,
+    "lng": -73.974283,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0268",
+    "name": "Terroir House 3",
+    "description": "Terroir House 3 is a elegant wine bar in Nolita, NYC, known for cheese board, by-the-glass, small plates. It's a upscale spot.",
+    "neighborhood": "Nolita",
+    "category": "wine_bar",
+    "lat": 40.715384,
+    "lng": -73.997971,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0269",
+    "name": "The Cellar Bushwick",
+    "description": "The Cellar Bushwick is a rustic wine bar in Bushwick, NYC, known for cheese board, small plates, by-the-glass. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "wine_bar",
+    "lat": 40.702695,
+    "lng": -73.920052,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0270",
+    "name": "Amaro Park",
+    "description": "Amaro Park is a rustic wine bar in Park Slope, NYC, known for small plates, cheese board, natural wine. It's a budget-friendly spot.",
+    "neighborhood": "Park Slope",
+    "category": "wine_bar",
+    "lat": 40.667605,
+    "lng": -73.989819,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0271",
+    "name": "Decant Jackson",
+    "description": "Decant Jackson is a intimate wine bar in Jackson Heights, NYC, known for small plates, natural wine, low-lit. It's a budget-friendly spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "wine_bar",
+    "lat": 40.753243,
+    "lng": -73.881001,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0272",
+    "name": "Vino & Veritas Jackson",
+    "description": "Vino & Veritas Jackson is a romantic wine bar in Jackson Heights, NYC, known for low-lit, small plates, by-the-glass. It's a budget-friendly spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "wine_bar",
+    "lat": 40.749878,
+    "lng": -73.874959,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0273",
+    "name": "Vino & Veritas Sunnyside",
+    "description": "Vino & Veritas Sunnyside is a candlelit wine bar in Sunnyside, NYC, known for small plates, natural wine, cheese board. It's a moderately priced spot.",
+    "neighborhood": "Sunnyside",
+    "category": "wine_bar",
+    "lat": 40.753391,
+    "lng": -73.920022,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0274",
+    "name": "Amaro Crown",
+    "description": "Amaro Crown is a rustic wine bar in Crown Heights, NYC, known for by-the-glass, small plates, cheese board. It's a upscale spot.",
+    "neighborhood": "Crown Heights",
+    "category": "wine_bar",
+    "lat": 40.665832,
+    "lng": -73.948539,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0275",
+    "name": "Decant Park",
+    "description": "Decant Park is a rustic wine bar in Park Slope, NYC, known for cheese board, by-the-glass, small plates. It's a moderately priced spot.",
+    "neighborhood": "Park Slope",
+    "category": "wine_bar",
+    "lat": 40.662972,
+    "lng": -73.971774,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0276",
+    "name": "Decant Astoria",
+    "description": "Decant Astoria is a candlelit wine bar in Astoria, NYC, known for cheese board, low-lit, small plates. It's a splurge-worthy spot.",
+    "neighborhood": "Astoria",
+    "category": "wine_bar",
+    "lat": 40.755314,
+    "lng": -73.916218,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0277",
+    "name": "Decant Lower",
+    "description": "Decant Lower is a rustic wine bar in Lower East Side, NYC, known for low-lit, by-the-glass, small plates. It's a moderately priced spot.",
+    "neighborhood": "Lower East Side",
+    "category": "wine_bar",
+    "lat": 40.708048,
+    "lng": -73.987703,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0278",
+    "name": "The Cellar Dumbo",
+    "description": "The Cellar Dumbo is a rustic wine bar in Dumbo, NYC, known for cheese board, low-lit, small plates. It's a moderately priced spot.",
+    "neighborhood": "Dumbo",
+    "category": "wine_bar",
+    "lat": 40.71263,
+    "lng": -73.985266,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0279",
+    "name": "The Cellar 3",
+    "description": "The Cellar 3 is a elegant wine bar in Williamsburg, NYC, known for cheese board, small plates, natural wine. It's a upscale spot.",
+    "neighborhood": "Williamsburg",
+    "category": "wine_bar",
+    "lat": 40.712506,
+    "lng": -73.957334,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0280",
+    "name": "Vino & Veritas Cobble",
+    "description": "Vino & Veritas Cobble is a candlelit wine bar in Cobble Hill, NYC, known for natural wine, low-lit, by-the-glass. It's a moderately priced spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "wine_bar",
+    "lat": 40.685548,
+    "lng": -73.989249,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0281",
+    "name": "The Cellar East",
+    "description": "The Cellar East is a elegant wine bar in East Village, NYC, known for low-lit, by-the-glass, small plates. It's a budget-friendly spot.",
+    "neighborhood": "East Village",
+    "category": "wine_bar",
+    "lat": 40.717709,
+    "lng": -73.978745,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0282",
+    "name": "Terroir House Sunnyside",
+    "description": "Terroir House Sunnyside is a elegant wine bar in Sunnyside, NYC, known for natural wine, low-lit, cheese board. It's a upscale spot.",
+    "neighborhood": "Sunnyside",
+    "category": "wine_bar",
+    "lat": 40.744433,
+    "lng": -73.929363,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0283",
+    "name": "Decant Red",
+    "description": "Decant Red is a candlelit wine bar in Red Hook, NYC, known for cheese board, natural wine, low-lit. It's a moderately priced spot.",
+    "neighborhood": "Red Hook",
+    "category": "wine_bar",
+    "lat": 40.681363,
+    "lng": -74.006419,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0284",
+    "name": "Vino & Veritas SoHo",
+    "description": "Vino & Veritas SoHo is a romantic wine bar in SoHo, NYC, known for small plates, low-lit, cheese board. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "wine_bar",
+    "lat": 40.723829,
+    "lng": -73.996696,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0285",
+    "name": "The Gilded Olive",
+    "description": "The Gilded Olive is a inventive cocktail bar in Long Island City, NYC, known for amaro list, date night, bartender's choice. It's a budget-friendly spot.",
+    "neighborhood": "Long Island City",
+    "category": "cocktail_bar",
+    "lat": 40.739564,
+    "lng": -73.944555,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0286",
+    "name": "The Alchemist",
+    "description": "The Alchemist is a sleek cocktail bar in Fort Greene, NYC, known for craft cocktails, date night, house infusions. It's a upscale spot.",
+    "neighborhood": "Fort Greene",
+    "category": "cocktail_bar",
+    "lat": 40.689585,
+    "lng": -73.972946,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0287",
+    "name": "The Alchemist Cobble",
+    "description": "The Alchemist Cobble is a sleek cocktail bar in Cobble Hill, NYC, known for craft cocktails, amaro list, house infusions. It's a upscale spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "cocktail_bar",
+    "lat": 40.690198,
+    "lng": -73.999475,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0288",
+    "name": "Lantern",
+    "description": "Lantern is a sleek cocktail bar in Ridgewood, NYC, known for house infusions, date night, bartender's choice. It's a splurge-worthy spot.",
+    "neighborhood": "Ridgewood",
+    "category": "cocktail_bar",
+    "lat": 40.707751,
+    "lng": -73.90549,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0289",
+    "name": "The Alchemist Sunnyside",
+    "description": "The Alchemist Sunnyside is a moody cocktail bar in Sunnyside, NYC, known for bartender's choice, craft cocktails, amaro list. It's a upscale spot.",
+    "neighborhood": "Sunnyside",
+    "category": "cocktail_bar",
+    "lat": 40.751975,
+    "lng": -73.92331,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0290",
+    "name": "Bitter & Sweet",
+    "description": "Bitter & Sweet is a upscale cocktail bar in Dumbo, NYC, known for amaro list, craft cocktails, house infusions. It's a upscale spot.",
+    "neighborhood": "Dumbo",
+    "category": "cocktail_bar",
+    "lat": 40.696549,
+    "lng": -73.993291,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0291",
+    "name": "Lantern Fort",
+    "description": "Lantern Fort is a sleek cocktail bar in Fort Greene, NYC, known for house infusions, craft cocktails, bartender's choice. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "cocktail_bar",
+    "lat": 40.696909,
+    "lng": -73.977083,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0292",
+    "name": "Bitter & Sweet Financial",
+    "description": "Bitter & Sweet Financial is a upscale cocktail bar in Financial District, NYC, known for bartender's choice, amaro list, house infusions. It's a upscale spot.",
+    "neighborhood": "Financial District",
+    "category": "cocktail_bar",
+    "lat": 40.698093,
+    "lng": -74.015833,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0293",
+    "name": "Bitter & Sweet Bushwick",
+    "description": "Bitter & Sweet Bushwick is a sleek cocktail bar in Bushwick, NYC, known for amaro list, date night, craft cocktails. It's a moderately priced spot.",
+    "neighborhood": "Bushwick",
+    "category": "cocktail_bar",
+    "lat": 40.697994,
+    "lng": -73.918087,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0294",
+    "name": "Lantern Astoria",
+    "description": "Lantern Astoria is a moody cocktail bar in Astoria, NYC, known for house infusions, craft cocktails, amaro list. It's a moderately priced spot.",
+    "neighborhood": "Astoria",
+    "category": "cocktail_bar",
+    "lat": 40.759759,
+    "lng": -73.9259,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0295",
+    "name": "The Gilded Olive Red",
+    "description": "The Gilded Olive Red is a inventive cocktail bar in Red Hook, NYC, known for craft cocktails, date night, amaro list. It's a moderately priced spot.",
+    "neighborhood": "Red Hook",
+    "category": "cocktail_bar",
+    "lat": 40.683959,
+    "lng": -74.011005,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0296",
+    "name": "Bitter & Sweet SoHo",
+    "description": "Bitter & Sweet SoHo is a sleek cocktail bar in SoHo, NYC, known for amaro list, date night, bartender's choice. It's a budget-friendly spot.",
+    "neighborhood": "SoHo",
+    "category": "cocktail_bar",
+    "lat": 40.724395,
+    "lng": -74.004839,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0297",
+    "name": "Gold Leaf",
+    "description": "Gold Leaf is a sleek cocktail bar in East Village, NYC, known for date night, bartender's choice, house infusions. It's a moderately priced spot.",
+    "neighborhood": "East Village",
+    "category": "cocktail_bar",
+    "lat": 40.716747,
+    "lng": -73.983224,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0298",
+    "name": "Lantern Red",
+    "description": "Lantern Red is a inventive cocktail bar in Red Hook, NYC, known for house infusions, date night, bartender's choice. It's a splurge-worthy spot.",
+    "neighborhood": "Red Hook",
+    "category": "cocktail_bar",
+    "lat": 40.672715,
+    "lng": -74.017123,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0299",
+    "name": "The Gilded Olive Upper",
+    "description": "The Gilded Olive Upper is a sleek cocktail bar in Upper East Side, NYC, known for house infusions, amaro list, date night. It's a budget-friendly spot.",
+    "neighborhood": "Upper East Side",
+    "category": "cocktail_bar",
+    "lat": 40.772022,
+    "lng": -73.956915,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0300",
+    "name": "Gold Leaf Nolita",
+    "description": "Gold Leaf Nolita is a upscale cocktail bar in Nolita, NYC, known for amaro list, house infusions, date night. It's a splurge-worthy spot.",
+    "neighborhood": "Nolita",
+    "category": "cocktail_bar",
+    "lat": 40.714539,
+    "lng": -73.999407,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0301",
+    "name": "Lantern Midtown",
+    "description": "Lantern Midtown is a stylish cocktail bar in Midtown, NYC, known for bartender's choice, amaro list, house infusions. It's a moderately priced spot.",
+    "neighborhood": "Midtown",
+    "category": "cocktail_bar",
+    "lat": 40.753512,
+    "lng": -73.977529,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0302",
+    "name": "Gold Leaf Tribeca",
+    "description": "Gold Leaf Tribeca is a inventive cocktail bar in Tribeca, NYC, known for house infusions, amaro list, date night. It's a moderately priced spot.",
+    "neighborhood": "Tribeca",
+    "category": "cocktail_bar",
+    "lat": 40.709853,
+    "lng": -74.010635,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0303",
+    "name": "The Gilded Olive Harlem",
+    "description": "The Gilded Olive Harlem is a inventive cocktail bar in Harlem, NYC, known for house infusions, bartender's choice, date night. It's a splurge-worthy spot.",
+    "neighborhood": "Harlem",
+    "category": "cocktail_bar",
+    "lat": 40.807206,
+    "lng": -73.940783,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0304",
+    "name": "Lantern SoHo",
+    "description": "Lantern SoHo is a upscale cocktail bar in SoHo, NYC, known for date night, house infusions, bartender's choice. It's a budget-friendly spot.",
+    "neighborhood": "SoHo",
+    "category": "cocktail_bar",
+    "lat": 40.728652,
+    "lng": -74.012462,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0305",
+    "name": "Bitter & Sweet Crown",
+    "description": "Bitter & Sweet Crown is a inventive cocktail bar in Crown Heights, NYC, known for bartender's choice, craft cocktails, house infusions. It's a moderately priced spot.",
+    "neighborhood": "Crown Heights",
+    "category": "cocktail_bar",
+    "lat": 40.67286,
+    "lng": -73.951416,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0306",
+    "name": "Gold Leaf Upper",
+    "description": "Gold Leaf Upper is a stylish cocktail bar in Upper West Side, NYC, known for amaro list, date night, craft cocktails. It's a upscale spot.",
+    "neighborhood": "Upper West Side",
+    "category": "cocktail_bar",
+    "lat": 40.785981,
+    "lng": -73.973441,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0307",
+    "name": "Lantern Hell's",
+    "description": "Lantern Hell's is a stylish cocktail bar in Hell's Kitchen, NYC, known for amaro list, craft cocktails, house infusions. It's a moderately priced spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "cocktail_bar",
+    "lat": 40.767833,
+    "lng": -73.985554,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0308",
+    "name": "The Alchemist 3",
+    "description": "The Alchemist 3 is a upscale cocktail bar in Cobble Hill, NYC, known for house infusions, bartender's choice, craft cocktails. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "cocktail_bar",
+    "lat": 40.69024,
+    "lng": -74.005214,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0309",
+    "name": "Gold Leaf Astoria",
+    "description": "Gold Leaf Astoria is a stylish cocktail bar in Astoria, NYC, known for amaro list, craft cocktails, date night. It's a splurge-worthy spot.",
+    "neighborhood": "Astoria",
+    "category": "cocktail_bar",
+    "lat": 40.756372,
+    "lng": -73.92906,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0310",
+    "name": "Lantern Park",
+    "description": "Lantern Park is a stylish cocktail bar in Park Slope, NYC, known for house infusions, amaro list, date night. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "cocktail_bar",
+    "lat": 40.668823,
+    "lng": -73.975953,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0311",
+    "name": "Lantern Crown",
+    "description": "Lantern Crown is a sleek cocktail bar in Crown Heights, NYC, known for craft cocktails, amaro list, date night. It's a budget-friendly spot.",
+    "neighborhood": "Crown Heights",
+    "category": "cocktail_bar",
+    "lat": 40.665309,
+    "lng": -73.935789,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0312",
+    "name": "Bitter & Sweet 3",
+    "description": "Bitter & Sweet 3 is a sleek cocktail bar in SoHo, NYC, known for bartender's choice, amaro list, craft cocktails. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "cocktail_bar",
+    "lat": 40.723722,
+    "lng": -74.006034,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0313",
+    "name": "The Gilded Olive Williamsburg",
+    "description": "The Gilded Olive Williamsburg is a sleek cocktail bar in Williamsburg, NYC, known for bartender's choice, craft cocktails, date night. It's a moderately priced spot.",
+    "neighborhood": "Williamsburg",
+    "category": "cocktail_bar",
+    "lat": 40.700402,
+    "lng": -73.950116,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0314",
+    "name": "Bitter & Sweet Fort",
+    "description": "Bitter & Sweet Fort is a upscale cocktail bar in Fort Greene, NYC, known for house infusions, date night, bartender's choice. It's a splurge-worthy spot.",
+    "neighborhood": "Fort Greene",
+    "category": "cocktail_bar",
+    "lat": 40.685203,
+    "lng": -73.972803,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0315",
+    "name": "The Gilded Olive 3",
+    "description": "The Gilded Olive 3 is a moody cocktail bar in Upper West Side, NYC, known for house infusions, amaro list, date night. It's a upscale spot.",
+    "neighborhood": "Upper West Side",
+    "category": "cocktail_bar",
+    "lat": 40.777584,
+    "lng": -73.973118,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0316",
+    "name": "Lantern Williamsburg",
+    "description": "Lantern Williamsburg is a sleek cocktail bar in Williamsburg, NYC, known for craft cocktails, house infusions, date night. It's a moderately priced spot.",
+    "neighborhood": "Williamsburg",
+    "category": "cocktail_bar",
+    "lat": 40.703667,
+    "lng": -73.953025,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0317",
+    "name": "The Alchemist Dumbo",
+    "description": "The Alchemist Dumbo is a inventive cocktail bar in Dumbo, NYC, known for date night, house infusions, amaro list. It's a upscale spot.",
+    "neighborhood": "Dumbo",
+    "category": "cocktail_bar",
+    "lat": 40.69982,
+    "lng": -73.988949,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0318",
+    "name": "The Gilded Olive Fort",
+    "description": "The Gilded Olive Fort is a inventive cocktail bar in Fort Greene, NYC, known for bartender's choice, amaro list, date night. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "cocktail_bar",
+    "lat": 40.689851,
+    "lng": -73.981715,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0319",
+    "name": "The Gilded Olive Jackson",
+    "description": "The Gilded Olive Jackson is a inventive cocktail bar in Jackson Heights, NYC, known for bartender's choice, craft cocktails, date night. It's a upscale spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "cocktail_bar",
+    "lat": 40.748379,
+    "lng": -73.890743,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0320",
+    "name": "Bitter & Sweet 4",
+    "description": "Bitter & Sweet 4 is a upscale cocktail bar in SoHo, NYC, known for house infusions, amaro list, date night. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "cocktail_bar",
+    "lat": 40.725229,
+    "lng": -74.001504,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0321",
+    "name": "The Gilded Olive Chelsea",
+    "description": "The Gilded Olive Chelsea is a upscale cocktail bar in Chelsea, NYC, known for house infusions, date night, amaro list. It's a upscale spot.",
+    "neighborhood": "Chelsea",
+    "category": "cocktail_bar",
+    "lat": 40.742277,
+    "lng": -74.007658,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0322",
+    "name": "The Alchemist Bedford-Stuyvesant",
+    "description": "The Alchemist Bedford-Stuyvesant is a stylish cocktail bar in Bedford-Stuyvesant, NYC, known for craft cocktails, amaro list, date night. It's a upscale spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "cocktail_bar",
+    "lat": 40.681103,
+    "lng": -73.944121,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0323",
+    "name": "The Gilded Olive Greenpoint",
+    "description": "The Gilded Olive Greenpoint is a sleek cocktail bar in Greenpoint, NYC, known for amaro list, date night, bartender's choice. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "cocktail_bar",
+    "lat": 40.737198,
+    "lng": -73.951226,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0324",
+    "name": "The Alchemist 4",
+    "description": "The Alchemist 4 is a moody cocktail bar in Dumbo, NYC, known for house infusions, bartender's choice, craft cocktails. It's a upscale spot.",
+    "neighborhood": "Dumbo",
+    "category": "cocktail_bar",
+    "lat": 40.698797,
+    "lng": -73.987348,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0325",
+    "name": "The Gilded Olive Astoria",
+    "description": "The Gilded Olive Astoria is a inventive cocktail bar in Astoria, NYC, known for amaro list, craft cocktails, bartender's choice. It's a moderately priced spot.",
+    "neighborhood": "Astoria",
+    "category": "cocktail_bar",
+    "lat": 40.756684,
+    "lng": -73.917998,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0326",
+    "name": "The Alchemist Park",
+    "description": "The Alchemist Park is a moody cocktail bar in Park Slope, NYC, known for amaro list, house infusions, date night. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "cocktail_bar",
+    "lat": 40.663048,
+    "lng": -73.974799,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0327",
+    "name": "The Alchemist Harlem",
+    "description": "The Alchemist Harlem is a moody cocktail bar in Harlem, NYC, known for bartender's choice, craft cocktails, house infusions. It's a moderately priced spot.",
+    "neighborhood": "Harlem",
+    "category": "cocktail_bar",
+    "lat": 40.818906,
+    "lng": -73.954152,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0328",
+    "name": "Lantern Greenwich",
+    "description": "Lantern Greenwich is a moody cocktail bar in Greenwich Village, NYC, known for date night, amaro list, craft cocktails. It's a upscale spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "cocktail_bar",
+    "lat": 40.735923,
+    "lng": -73.997003,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0329",
+    "name": "The Alchemist Long",
+    "description": "The Alchemist Long is a inventive cocktail bar in Long Island City, NYC, known for date night, bartender's choice, amaro list. It's a moderately priced spot.",
+    "neighborhood": "Long Island City",
+    "category": "cocktail_bar",
+    "lat": 40.745475,
+    "lng": -73.952027,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0330",
+    "name": "Altitude",
+    "description": "Altitude is a breezy rooftop bar in Harlem, NYC, known for golden hour, skyline views, open-air. It's a moderately priced spot.",
+    "neighborhood": "Harlem",
+    "category": "rooftop_bar",
+    "lat": 40.820855,
+    "lng": -73.940786,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0331",
+    "name": "The Heights",
+    "description": "The Heights is a sunset rooftop bar in Upper East Side, NYC, known for frozen cocktails, golden hour, skyline views. It's a upscale spot.",
+    "neighborhood": "Upper East Side",
+    "category": "rooftop_bar",
+    "lat": 40.777828,
+    "lng": -73.95003,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0332",
+    "name": "The Heights Bushwick",
+    "description": "The Heights Bushwick is a breezy rooftop bar in Bushwick, NYC, known for DJ sets, open-air, frozen cocktails. It's a moderately priced spot.",
+    "neighborhood": "Bushwick",
+    "category": "rooftop_bar",
+    "lat": 40.69344,
+    "lng": -73.918627,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0333",
+    "name": "Altitude Hell's",
+    "description": "Altitude Hell's is a breezy rooftop bar in Hell's Kitchen, NYC, known for DJ sets, open-air, frozen cocktails. It's a upscale spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "rooftop_bar",
+    "lat": 40.760346,
+    "lng": -74.001751,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0334",
+    "name": "Westview Rooftop",
+    "description": "Westview Rooftop is a scenic rooftop bar in Red Hook, NYC, known for DJ sets, skyline views, golden hour. It's a upscale spot.",
+    "neighborhood": "Red Hook",
+    "category": "rooftop_bar",
+    "lat": 40.673054,
+    "lng": -74.000537,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0335",
+    "name": "Cloud Terrace",
+    "description": "Cloud Terrace is a sunset rooftop bar in Bushwick, NYC, known for DJ sets, golden hour, open-air. It's a moderately priced spot.",
+    "neighborhood": "Bushwick",
+    "category": "rooftop_bar",
+    "lat": 40.695959,
+    "lng": -73.919977,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0336",
+    "name": "Cloud Terrace Long",
+    "description": "Cloud Terrace Long is a breezy rooftop bar in Long Island City, NYC, known for skyline views, golden hour, open-air. It's a upscale spot.",
+    "neighborhood": "Long Island City",
+    "category": "rooftop_bar",
+    "lat": 40.747224,
+    "lng": -73.941766,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0337",
+    "name": "The Heights SoHo",
+    "description": "The Heights SoHo is a see-and-be-seen rooftop bar in SoHo, NYC, known for skyline views, open-air, golden hour. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "rooftop_bar",
+    "lat": 40.733214,
+    "lng": -73.994812,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0338",
+    "name": "Cloud Terrace Chelsea",
+    "description": "Cloud Terrace Chelsea is a scenic rooftop bar in Chelsea, NYC, known for DJ sets, golden hour, skyline views. It's a budget-friendly spot.",
+    "neighborhood": "Chelsea",
+    "category": "rooftop_bar",
+    "lat": 40.743937,
+    "lng": -73.993324,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0339",
+    "name": "Westview Rooftop West",
+    "description": "Westview Rooftop West is a scenic rooftop bar in West Village, NYC, known for frozen cocktails, open-air, DJ sets. It's a upscale spot.",
+    "neighborhood": "West Village",
+    "category": "rooftop_bar",
+    "lat": 40.727624,
+    "lng": -74.011696,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0340",
+    "name": "Skyline Social",
+    "description": "Skyline Social is a breezy rooftop bar in Bushwick, NYC, known for frozen cocktails, open-air, skyline views. It's a budget-friendly spot.",
+    "neighborhood": "Bushwick",
+    "category": "rooftop_bar",
+    "lat": 40.684561,
+    "lng": -73.924429,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0341",
+    "name": "Westview Rooftop Jackson",
+    "description": "Westview Rooftop Jackson is a breezy rooftop bar in Jackson Heights, NYC, known for open-air, skyline views, golden hour. It's a upscale spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "rooftop_bar",
+    "lat": 40.753361,
+    "lng": -73.878485,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0342",
+    "name": "Cloud Terrace SoHo",
+    "description": "Cloud Terrace SoHo is a scenic rooftop bar in SoHo, NYC, known for DJ sets, frozen cocktails, open-air. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "rooftop_bar",
+    "lat": 40.728769,
+    "lng": -73.997937,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0343",
+    "name": "The Heights Cobble",
+    "description": "The Heights Cobble is a scenic rooftop bar in Cobble Hill, NYC, known for golden hour, skyline views, DJ sets. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "rooftop_bar",
+    "lat": 40.6903,
+    "lng": -73.997298,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0344",
+    "name": "The Heights 3",
+    "description": "The Heights 3 is a breezy rooftop bar in Cobble Hill, NYC, known for golden hour, open-air, skyline views. It's a splurge-worthy spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "rooftop_bar",
+    "lat": 40.679034,
+    "lng": -74.004091,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0345",
+    "name": "Westview Rooftop Dumbo",
+    "description": "Westview Rooftop Dumbo is a scenic rooftop bar in Dumbo, NYC, known for open-air, DJ sets, skyline views. It's a moderately priced spot.",
+    "neighborhood": "Dumbo",
+    "category": "rooftop_bar",
+    "lat": 40.698256,
+    "lng": -73.985208,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0346",
+    "name": "Altitude Park",
+    "description": "Altitude Park is a see-and-be-seen rooftop bar in Park Slope, NYC, known for golden hour, DJ sets, open-air. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "rooftop_bar",
+    "lat": 40.661536,
+    "lng": -73.974459,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0347",
+    "name": "Altitude Greenwich",
+    "description": "Altitude Greenwich is a scenic rooftop bar in Greenwich Village, NYC, known for frozen cocktails, open-air, golden hour. It's a upscale spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "rooftop_bar",
+    "lat": 40.736523,
+    "lng": -73.997024,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0348",
+    "name": "Westview Rooftop Bushwick",
+    "description": "Westview Rooftop Bushwick is a see-and-be-seen rooftop bar in Bushwick, NYC, known for open-air, skyline views, DJ sets. It's a budget-friendly spot.",
+    "neighborhood": "Bushwick",
+    "category": "rooftop_bar",
+    "lat": 40.702174,
+    "lng": -73.931059,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0349",
+    "name": "Cloud Terrace Sunnyside",
+    "description": "Cloud Terrace Sunnyside is a sunset rooftop bar in Sunnyside, NYC, known for golden hour, open-air, frozen cocktails. It's a budget-friendly spot.",
+    "neighborhood": "Sunnyside",
+    "category": "rooftop_bar",
+    "lat": 40.744327,
+    "lng": -73.926145,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0350",
+    "name": "Skyline Social Astoria",
+    "description": "Skyline Social Astoria is a sunset rooftop bar in Astoria, NYC, known for skyline views, golden hour, frozen cocktails. It's a budget-friendly spot.",
+    "neighborhood": "Astoria",
+    "category": "rooftop_bar",
+    "lat": 40.758715,
+    "lng": -73.915048,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0351",
+    "name": "Cloud Terrace Greenpoint",
+    "description": "Cloud Terrace Greenpoint is a panoramic rooftop bar in Greenpoint, NYC, known for golden hour, open-air, frozen cocktails. It's a upscale spot.",
+    "neighborhood": "Greenpoint",
+    "category": "rooftop_bar",
+    "lat": 40.734436,
+    "lng": -73.959351,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0352",
+    "name": "Altitude 3",
+    "description": "Altitude 3 is a scenic rooftop bar in Park Slope, NYC, known for skyline views, DJ sets, golden hour. It's a budget-friendly spot.",
+    "neighborhood": "Park Slope",
+    "category": "rooftop_bar",
+    "lat": 40.671226,
+    "lng": -73.987336,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0353",
+    "name": "Cloud Terrace Park",
+    "description": "Cloud Terrace Park is a scenic rooftop bar in Park Slope, NYC, known for skyline views, DJ sets, open-air. It's a moderately priced spot.",
+    "neighborhood": "Park Slope",
+    "category": "rooftop_bar",
+    "lat": 40.66975,
+    "lng": -73.972331,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0354",
+    "name": "The Heights West",
+    "description": "The Heights West is a scenic rooftop bar in West Village, NYC, known for open-air, skyline views, frozen cocktails. It's a budget-friendly spot.",
+    "neighborhood": "West Village",
+    "category": "rooftop_bar",
+    "lat": 40.738046,
+    "lng": -74.012499,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0355",
+    "name": "Blue Note Lounge",
+    "description": "Blue Note Lounge is a soulful jazz club in SoHo, NYC, known for live jazz, late-night sets, table service. It's a upscale spot.",
+    "neighborhood": "SoHo",
+    "category": "jazz_club",
+    "lat": 40.73236,
+    "lng": -74.00254,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0356",
+    "name": "Smalls Club",
+    "description": "Smalls Club is a storied jazz club in Chelsea, NYC, known for vintage vibe, live jazz, table service. It's a budget-friendly spot.",
+    "neighborhood": "Chelsea",
+    "category": "jazz_club",
+    "lat": 40.7432,
+    "lng": -74.002814,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0357",
+    "name": "Smalls Club East",
+    "description": "Smalls Club East is a dim jazz club in East Village, NYC, known for standards, live jazz, late-night sets. It's a upscale spot.",
+    "neighborhood": "East Village",
+    "category": "jazz_club",
+    "lat": 40.725604,
+    "lng": -73.984298,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0358",
+    "name": "Minton's Corner",
+    "description": "Minton's Corner is a historic jazz club in Jackson Heights, NYC, known for late-night sets, vintage vibe, live jazz. It's a budget-friendly spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "jazz_club",
+    "lat": 40.763585,
+    "lng": -73.879618,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0359",
+    "name": "Minton's Corner Upper",
+    "description": "Minton's Corner Upper is a smoky jazz club in Upper West Side, NYC, known for live jazz, late-night sets, standards. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "jazz_club",
+    "lat": 40.786435,
+    "lng": -73.97774,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0360",
+    "name": "Blue Note Lounge Chelsea",
+    "description": "Blue Note Lounge Chelsea is a soulful jazz club in Chelsea, NYC, known for table service, late-night sets, standards. It's a moderately priced spot.",
+    "neighborhood": "Chelsea",
+    "category": "jazz_club",
+    "lat": 40.741465,
+    "lng": -73.993083,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0361",
+    "name": "Blue Note Lounge Upper",
+    "description": "Blue Note Lounge Upper is a historic jazz club in Upper East Side, NYC, known for live jazz, standards, table service. It's a moderately priced spot.",
+    "neighborhood": "Upper East Side",
+    "category": "jazz_club",
+    "lat": 40.768064,
+    "lng": -73.956285,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0362",
+    "name": "Blue Note Lounge Hell's",
+    "description": "Blue Note Lounge Hell's is a soulful jazz club in Hell's Kitchen, NYC, known for vintage vibe, standards, late-night sets. It's a upscale spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "jazz_club",
+    "lat": 40.755528,
+    "lng": -73.992665,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0363",
+    "name": "Smalls Club Greenwich",
+    "description": "Smalls Club Greenwich is a smoky jazz club in Greenwich Village, NYC, known for vintage vibe, late-night sets, table service. It's a moderately priced spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "jazz_club",
+    "lat": 40.730965,
+    "lng": -73.993263,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0364",
+    "name": "Minton's Corner Red",
+    "description": "Minton's Corner Red is a storied jazz club in Red Hook, NYC, known for late-night sets, standards, live jazz. It's a upscale spot.",
+    "neighborhood": "Red Hook",
+    "category": "jazz_club",
+    "lat": 40.683748,
+    "lng": -74.019422,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0365",
+    "name": "Blue Note Lounge Nolita",
+    "description": "Blue Note Lounge Nolita is a storied jazz club in Nolita, NYC, known for live jazz, table service, vintage vibe. It's a splurge-worthy spot.",
+    "neighborhood": "Nolita",
+    "category": "jazz_club",
+    "lat": 40.726944,
+    "lng": -74.003421,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0366",
+    "name": "Birdcage",
+    "description": "Birdcage is a smoky jazz club in Upper West Side, NYC, known for live jazz, late-night sets, vintage vibe. It's a moderately priced spot.",
+    "neighborhood": "Upper West Side",
+    "category": "jazz_club",
+    "lat": 40.782597,
+    "lng": -73.984522,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0367",
+    "name": "Minton's Corner Ridgewood",
+    "description": "Minton's Corner Ridgewood is a smoky jazz club in Ridgewood, NYC, known for vintage vibe, table service, standards. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "jazz_club",
+    "lat": 40.691698,
+    "lng": -73.913088,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0368",
+    "name": "Birdcage Cobble",
+    "description": "Birdcage Cobble is a soulful jazz club in Cobble Hill, NYC, known for standards, live jazz, late-night sets. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "jazz_club",
+    "lat": 40.690549,
+    "lng": -74.003486,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0369",
+    "name": "Smalls Club Upper",
+    "description": "Smalls Club Upper is a smoky jazz club in Upper East Side, NYC, known for table service, vintage vibe, late-night sets. It's a splurge-worthy spot.",
+    "neighborhood": "Upper East Side",
+    "category": "jazz_club",
+    "lat": 40.772655,
+    "lng": -73.961928,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0370",
+    "name": "The Hidden Key",
+    "description": "The Hidden Key is a dimly-lit speakeasy-style cocktail bar in Tribeca, NYC, known for password entry, creative drinks, no signage. It's a budget-friendly spot.",
+    "neighborhood": "Tribeca",
+    "category": "speakeasy",
+    "lat": 40.715621,
+    "lng": -74.01047,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0371",
+    "name": "The Back Room",
+    "description": "The Back Room is a secretive speakeasy-style cocktail bar in Nolita, NYC, known for no signage, behind-the-door, password entry. It's a moderately priced spot.",
+    "neighborhood": "Nolita",
+    "category": "speakeasy",
+    "lat": 40.714208,
+    "lng": -73.989348,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0372",
+    "name": "The Hidden Key Flushing",
+    "description": "The Hidden Key Flushing is a intimate speakeasy-style cocktail bar in Flushing, NYC, known for behind-the-door, creative drinks, password entry. It's a budget-friendly spot.",
+    "neighborhood": "Flushing",
+    "category": "speakeasy",
+    "lat": 40.771723,
+    "lng": -73.823732,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0373",
+    "name": "Attaboy",
+    "description": "Attaboy is a dimly-lit speakeasy-style cocktail bar in Greenpoint, NYC, known for behind-the-door, creative drinks, password entry. It's a upscale spot.",
+    "neighborhood": "Greenpoint",
+    "category": "speakeasy",
+    "lat": 40.739442,
+    "lng": -73.943908,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0374",
+    "name": "The Hidden Key Red",
+    "description": "The Hidden Key Red is a cozy speakeasy-style cocktail bar in Red Hook, NYC, known for no signage, password entry, vintage decor. It's a moderately priced spot.",
+    "neighborhood": "Red Hook",
+    "category": "speakeasy",
+    "lat": 40.667529,
+    "lng": -74.018667,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0375",
+    "name": "The Back Room Tribeca",
+    "description": "The Back Room Tribeca is a hidden speakeasy-style cocktail bar in Tribeca, NYC, known for behind-the-door, password entry, vintage decor. It's a upscale spot.",
+    "neighborhood": "Tribeca",
+    "category": "speakeasy",
+    "lat": 40.718022,
+    "lng": -74.000251,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0376",
+    "name": "Attaboy Lower",
+    "description": "Attaboy Lower is a secretive speakeasy-style cocktail bar in Lower East Side, NYC, known for no signage, creative drinks, password entry. It's a budget-friendly spot.",
+    "neighborhood": "Lower East Side",
+    "category": "speakeasy",
+    "lat": 40.723102,
+    "lng": -73.977713,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0377",
+    "name": "Attaboy SoHo",
+    "description": "Attaboy SoHo is a intimate speakeasy-style cocktail bar in SoHo, NYC, known for password entry, creative drinks, behind-the-door. It's a splurge-worthy spot.",
+    "neighborhood": "SoHo",
+    "category": "speakeasy",
+    "lat": 40.721963,
+    "lng": -73.998511,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0378",
+    "name": "Phone Booth",
+    "description": "Phone Booth is a intimate speakeasy-style cocktail bar in Lower East Side, NYC, known for creative drinks, behind-the-door, password entry. It's a upscale spot.",
+    "neighborhood": "Lower East Side",
+    "category": "speakeasy",
+    "lat": 40.723166,
+    "lng": -73.9888,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0379",
+    "name": "The Back Room Ridgewood",
+    "description": "The Back Room Ridgewood is a dimly-lit speakeasy-style cocktail bar in Ridgewood, NYC, known for vintage decor, creative drinks, behind-the-door. It's a budget-friendly spot.",
+    "neighborhood": "Ridgewood",
+    "category": "speakeasy",
+    "lat": 40.695902,
+    "lng": -73.90676,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0380",
+    "name": "Attaboy Bushwick",
+    "description": "Attaboy Bushwick is a dimly-lit speakeasy-style cocktail bar in Bushwick, NYC, known for no signage, creative drinks, vintage decor. It's a budget-friendly spot.",
+    "neighborhood": "Bushwick",
+    "category": "speakeasy",
+    "lat": 40.688389,
+    "lng": -73.913607,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0381",
+    "name": "The Hidden Key Upper",
+    "description": "The Hidden Key Upper is a dimly-lit speakeasy-style cocktail bar in Upper West Side, NYC, known for no signage, behind-the-door, creative drinks. It's a upscale spot.",
+    "neighborhood": "Upper West Side",
+    "category": "speakeasy",
+    "lat": 40.78789,
+    "lng": -73.975706,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0382",
+    "name": "Please Don't Tell",
+    "description": "Please Don't Tell is a secretive speakeasy-style cocktail bar in Greenpoint, NYC, known for creative drinks, password entry, vintage decor. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "speakeasy",
+    "lat": 40.732342,
+    "lng": -73.960414,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0383",
+    "name": "Phone Booth West",
+    "description": "Phone Booth West is a secretive speakeasy-style cocktail bar in West Village, NYC, known for vintage decor, creative drinks, password entry. It's a moderately priced spot.",
+    "neighborhood": "West Village",
+    "category": "speakeasy",
+    "lat": 40.727803,
+    "lng": -74.000463,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0384",
+    "name": "Attaboy Park",
+    "description": "Attaboy Park is a cozy speakeasy-style cocktail bar in Park Slope, NYC, known for creative drinks, no signage, vintage decor. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "speakeasy",
+    "lat": 40.679704,
+    "lng": -73.971569,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0385",
+    "name": "The Back Room Chelsea",
+    "description": "The Back Room Chelsea is a dimly-lit speakeasy-style cocktail bar in Chelsea, NYC, known for behind-the-door, password entry, vintage decor. It's a moderately priced spot.",
+    "neighborhood": "Chelsea",
+    "category": "speakeasy",
+    "lat": 40.750511,
+    "lng": -73.992449,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0386",
+    "name": "The Hidden Key Tribeca",
+    "description": "The Hidden Key Tribeca is a cozy speakeasy-style cocktail bar in Tribeca, NYC, known for no signage, behind-the-door, password entry. It's a splurge-worthy spot.",
+    "neighborhood": "Tribeca",
+    "category": "speakeasy",
+    "lat": 40.716109,
+    "lng": -74.016795,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0387",
+    "name": "The Back Room Bedford-Stuyvesant",
+    "description": "The Back Room Bedford-Stuyvesant is a cozy speakeasy-style cocktail bar in Bedford-Stuyvesant, NYC, known for no signage, password entry, creative drinks. It's a budget-friendly spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "speakeasy",
+    "lat": 40.695558,
+    "lng": -73.947771,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0388",
+    "name": "The Back Room Midtown",
+    "description": "The Back Room Midtown is a cozy speakeasy-style cocktail bar in Midtown, NYC, known for behind-the-door, password entry, no signage. It's a splurge-worthy spot.",
+    "neighborhood": "Midtown",
+    "category": "speakeasy",
+    "lat": 40.747854,
+    "lng": -73.979906,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0389",
+    "name": "Attaboy Astoria",
+    "description": "Attaboy Astoria is a dimly-lit speakeasy-style cocktail bar in Astoria, NYC, known for behind-the-door, password entry, creative drinks. It's a upscale spot.",
+    "neighborhood": "Astoria",
+    "category": "speakeasy",
+    "lat": 40.768491,
+    "lng": -73.920257,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0390",
+    "name": "Tonkotsu House",
+    "description": "Tonkotsu House is a slurp-worthy ramen shop in SoHo, NYC, known for handmade noodles, chashu, spicy miso. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "ramen_shop",
+    "lat": 40.732274,
+    "lng": -73.997163,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0391",
+    "name": "Tonkotsu House Cobble",
+    "description": "Tonkotsu House Cobble is a slurp-worthy ramen shop in Cobble Hill, NYC, known for chashu, spicy miso, tonkotsu broth. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "ramen_shop",
+    "lat": 40.690611,
+    "lng": -73.989811,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0392",
+    "name": "Tonkotsu House Harlem",
+    "description": "Tonkotsu House Harlem is a comforting ramen shop in Harlem, NYC, known for tonkotsu broth, counter seating, spicy miso. It's a budget-friendly spot.",
+    "neighborhood": "Harlem",
+    "category": "ramen_shop",
+    "lat": 40.802248,
+    "lng": -73.944452,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0393",
+    "name": "Menya East",
+    "description": "Menya East is a no-reservations ramen shop in Upper West Side, NYC, known for counter seating, handmade noodles, chashu. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "ramen_shop",
+    "lat": 40.791907,
+    "lng": -73.98064,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0394",
+    "name": "Ippudo Annex",
+    "description": "Ippudo Annex is a steamy ramen shop in Chelsea, NYC, known for spicy miso, counter seating, tonkotsu broth. It's a upscale spot.",
+    "neighborhood": "Chelsea",
+    "category": "ramen_shop",
+    "lat": 40.741804,
+    "lng": -74.006409,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0395",
+    "name": "Tonkotsu House Nolita",
+    "description": "Tonkotsu House Nolita is a casual ramen shop in Nolita, NYC, known for tonkotsu broth, chashu, handmade noodles. It's a upscale spot.",
+    "neighborhood": "Nolita",
+    "category": "ramen_shop",
+    "lat": 40.721164,
+    "lng": -73.997107,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0396",
+    "name": "Slurp Lab",
+    "description": "Slurp Lab is a comforting ramen shop in Ridgewood, NYC, known for counter seating, spicy miso, chashu. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "ramen_shop",
+    "lat": 40.697507,
+    "lng": -73.898424,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0397",
+    "name": "Noodle Republic",
+    "description": "Noodle Republic is a steamy ramen shop in Cobble Hill, NYC, known for tonkotsu broth, chashu, handmade noodles. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "ramen_shop",
+    "lat": 40.677702,
+    "lng": -74.000877,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0398",
+    "name": "Tonkotsu House East",
+    "description": "Tonkotsu House East is a steamy ramen shop in East Village, NYC, known for counter seating, handmade noodles, spicy miso. It's a budget-friendly spot.",
+    "neighborhood": "East Village",
+    "category": "ramen_shop",
+    "lat": 40.718,
+    "lng": -73.972663,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0399",
+    "name": "Menya East Midtown",
+    "description": "Menya East Midtown is a slurp-worthy ramen shop in Midtown, NYC, known for counter seating, tonkotsu broth, handmade noodles. It's a splurge-worthy spot.",
+    "neighborhood": "Midtown",
+    "category": "ramen_shop",
+    "lat": 40.763749,
+    "lng": -73.9907,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0400",
+    "name": "Ippudo Annex Chelsea",
+    "description": "Ippudo Annex Chelsea is a comforting ramen shop in Chelsea, NYC, known for handmade noodles, chashu, counter seating. It's a budget-friendly spot.",
+    "neighborhood": "Chelsea",
+    "category": "ramen_shop",
+    "lat": 40.750444,
+    "lng": -73.996959,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0401",
+    "name": "Tonkotsu House Upper",
+    "description": "Tonkotsu House Upper is a casual ramen shop in Upper East Side, NYC, known for tonkotsu broth, chashu, handmade noodles. It's a moderately priced spot.",
+    "neighborhood": "Upper East Side",
+    "category": "ramen_shop",
+    "lat": 40.775035,
+    "lng": -73.949803,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0402",
+    "name": "Tonkotsu House West",
+    "description": "Tonkotsu House West is a steamy ramen shop in West Village, NYC, known for tonkotsu broth, spicy miso, counter seating. It's a budget-friendly spot.",
+    "neighborhood": "West Village",
+    "category": "ramen_shop",
+    "lat": 40.738302,
+    "lng": -74.003993,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0403",
+    "name": "Noodle Republic Lower",
+    "description": "Noodle Republic Lower is a slurp-worthy ramen shop in Lower East Side, NYC, known for spicy miso, tonkotsu broth, handmade noodles. It's a budget-friendly spot.",
+    "neighborhood": "Lower East Side",
+    "category": "ramen_shop",
+    "lat": 40.721875,
+    "lng": -73.988133,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0404",
+    "name": "Slurp Lab Bushwick",
+    "description": "Slurp Lab Bushwick is a slurp-worthy ramen shop in Bushwick, NYC, known for spicy miso, tonkotsu broth, chashu. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "ramen_shop",
+    "lat": 40.695283,
+    "lng": -73.927602,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0405",
+    "name": "Noodle Republic Nolita",
+    "description": "Noodle Republic Nolita is a comforting ramen shop in Nolita, NYC, known for spicy miso, counter seating, handmade noodles. It's a moderately priced spot.",
+    "neighborhood": "Nolita",
+    "category": "ramen_shop",
+    "lat": 40.717668,
+    "lng": -73.988758,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0406",
+    "name": "Noodle Republic West",
+    "description": "Noodle Republic West is a comforting ramen shop in West Village, NYC, known for tonkotsu broth, chashu, spicy miso. It's a upscale spot.",
+    "neighborhood": "West Village",
+    "category": "ramen_shop",
+    "lat": 40.732676,
+    "lng": -74.002771,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0407",
+    "name": "Menya East Upper",
+    "description": "Menya East Upper is a comforting ramen shop in Upper West Side, NYC, known for counter seating, chashu, spicy miso. It's a budget-friendly spot.",
+    "neighborhood": "Upper West Side",
+    "category": "ramen_shop",
+    "lat": 40.790741,
+    "lng": -73.966673,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0408",
+    "name": "Noodle Republic Ridgewood",
+    "description": "Noodle Republic Ridgewood is a comforting ramen shop in Ridgewood, NYC, known for tonkotsu broth, counter seating, spicy miso. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "ramen_shop",
+    "lat": 40.690695,
+    "lng": -73.903576,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0409",
+    "name": "Menya East Long",
+    "description": "Menya East Long is a casual ramen shop in Long Island City, NYC, known for chashu, handmade noodles, tonkotsu broth. It's a upscale spot.",
+    "neighborhood": "Long Island City",
+    "category": "ramen_shop",
+    "lat": 40.753685,
+    "lng": -73.949519,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0410",
+    "name": "Noodle Republic Greenwich",
+    "description": "Noodle Republic Greenwich is a casual ramen shop in Greenwich Village, NYC, known for counter seating, tonkotsu broth, spicy miso. It's a budget-friendly spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "ramen_shop",
+    "lat": 40.732308,
+    "lng": -73.992755,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0411",
+    "name": "Menya East Flushing",
+    "description": "Menya East Flushing is a no-reservations ramen shop in Flushing, NYC, known for tonkotsu broth, chashu, handmade noodles. It's a moderately priced spot.",
+    "neighborhood": "Flushing",
+    "category": "ramen_shop",
+    "lat": 40.768627,
+    "lng": -73.832059,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0412",
+    "name": "Slurp Lab Greenpoint",
+    "description": "Slurp Lab Greenpoint is a comforting ramen shop in Greenpoint, NYC, known for tonkotsu broth, counter seating, chashu. It's a splurge-worthy spot.",
+    "neighborhood": "Greenpoint",
+    "category": "ramen_shop",
+    "lat": 40.728689,
+    "lng": -73.958036,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0413",
+    "name": "Ippudo Annex Dumbo",
+    "description": "Ippudo Annex Dumbo is a slurp-worthy ramen shop in Dumbo, NYC, known for chashu, tonkotsu broth, handmade noodles. It's a splurge-worthy spot.",
+    "neighborhood": "Dumbo",
+    "category": "ramen_shop",
+    "lat": 40.71065,
+    "lng": -73.980497,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0414",
+    "name": "Slurp Lab Upper",
+    "description": "Slurp Lab Upper is a comforting ramen shop in Upper East Side, NYC, known for chashu, counter seating, tonkotsu broth. It's a upscale spot.",
+    "neighborhood": "Upper East Side",
+    "category": "ramen_shop",
+    "lat": 40.767044,
+    "lng": -73.958541,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0415",
+    "name": "Forno Rosso",
+    "description": "Forno Rosso is a old-school pizza spot in Bedford-Stuyvesant, NYC, known for by-the-slice, thin crust, coal oven. It's a budget-friendly spot.",
+    "neighborhood": "Bedford-Stuyvesant",
+    "category": "pizza_spot",
+    "lat": 40.692115,
+    "lng": -73.933383,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0416",
+    "name": "Slice Society",
+    "description": "Slice Society is a classic pizza spot in Lower East Side, NYC, known for by-the-slice, Neapolitan, thin crust. It's a upscale spot.",
+    "neighborhood": "Lower East Side",
+    "category": "pizza_spot",
+    "lat": 40.721857,
+    "lng": -73.977135,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0417",
+    "name": "Coal & Char",
+    "description": "Coal & Char is a classic pizza spot in Jackson Heights, NYC, known for fresh mozzarella, by-the-slice, thin crust. It's a budget-friendly spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "pizza_spot",
+    "lat": 40.760276,
+    "lng": -73.881,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0418",
+    "name": "Forno Rosso Greenwich",
+    "description": "Forno Rosso Greenwich is a no-frills pizza spot in Greenwich Village, NYC, known for fresh mozzarella, Neapolitan, by-the-slice. It's a moderately priced spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "pizza_spot",
+    "lat": 40.740944,
+    "lng": -73.99628,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0419",
+    "name": "Coal & Char Long",
+    "description": "Coal & Char Long is a no-frills pizza spot in Long Island City, NYC, known for Neapolitan, fresh mozzarella, coal oven. It's a budget-friendly spot.",
+    "neighborhood": "Long Island City",
+    "category": "pizza_spot",
+    "lat": 40.75031,
+    "lng": -73.948014,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0420",
+    "name": "Coal & Char Lower",
+    "description": "Coal & Char Lower is a old-school pizza spot in Lower East Side, NYC, known for thin crust, coal oven, fresh mozzarella. It's a budget-friendly spot.",
+    "neighborhood": "Lower East Side",
+    "category": "pizza_spot",
+    "lat": 40.705661,
+    "lng": -73.993289,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0421",
+    "name": "Coal & Char Crown",
+    "description": "Coal & Char Crown is a blistered-crust pizza spot in Crown Heights, NYC, known for fresh mozzarella, Neapolitan, by-the-slice. It's a moderately priced spot.",
+    "neighborhood": "Crown Heights",
+    "category": "pizza_spot",
+    "lat": 40.677861,
+    "lng": -73.940577,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0422",
+    "name": "Forno Rosso Nolita",
+    "description": "Forno Rosso Nolita is a old-school pizza spot in Nolita, NYC, known for thin crust, fresh mozzarella, by-the-slice. It's a moderately priced spot.",
+    "neighborhood": "Nolita",
+    "category": "pizza_spot",
+    "lat": 40.723427,
+    "lng": -73.998615,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0423",
+    "name": "Lucia Pizza",
+    "description": "Lucia Pizza is a blistered-crust pizza spot in Red Hook, NYC, known for fresh mozzarella, coal oven, Neapolitan. It's a moderately priced spot.",
+    "neighborhood": "Red Hook",
+    "category": "pizza_spot",
+    "lat": 40.682176,
+    "lng": -74.004303,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0424",
+    "name": "Coal & Char Jackson",
+    "description": "Coal & Char Jackson is a classic pizza spot in Jackson Heights, NYC, known for thin crust, by-the-slice, fresh mozzarella. It's a upscale spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "pizza_spot",
+    "lat": 40.75389,
+    "lng": -73.892699,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0425",
+    "name": "Coal & Char Bushwick",
+    "description": "Coal & Char Bushwick is a old-school pizza spot in Bushwick, NYC, known for Neapolitan, coal oven, fresh mozzarella. It's a upscale spot.",
+    "neighborhood": "Bushwick",
+    "category": "pizza_spot",
+    "lat": 40.689448,
+    "lng": -73.915198,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0426",
+    "name": "Slice Society Crown",
+    "description": "Slice Society Crown is a no-frills pizza spot in Crown Heights, NYC, known for fresh mozzarella, by-the-slice, thin crust. It's a moderately priced spot.",
+    "neighborhood": "Crown Heights",
+    "category": "pizza_spot",
+    "lat": 40.66444,
+    "lng": -73.944866,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0427",
+    "name": "Pomodoro",
+    "description": "Pomodoro is a old-school pizza spot in Flushing, NYC, known for coal oven, Neapolitan, by-the-slice. It's a moderately priced spot.",
+    "neighborhood": "Flushing",
+    "category": "pizza_spot",
+    "lat": 40.777489,
+    "lng": -73.82377,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0428",
+    "name": "Pomodoro Park",
+    "description": "Pomodoro Park is a old-school pizza spot in Park Slope, NYC, known for by-the-slice, coal oven, thin crust. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "pizza_spot",
+    "lat": 40.662277,
+    "lng": -73.971633,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0429",
+    "name": "Slice Society Jackson",
+    "description": "Slice Society Jackson is a classic pizza spot in Jackson Heights, NYC, known for by-the-slice, thin crust, coal oven. It's a moderately priced spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "pizza_spot",
+    "lat": 40.756046,
+    "lng": -73.888294,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0430",
+    "name": "Pomodoro Long",
+    "description": "Pomodoro Long is a old-school pizza spot in Long Island City, NYC, known for by-the-slice, thin crust, Neapolitan. It's a moderately priced spot.",
+    "neighborhood": "Long Island City",
+    "category": "pizza_spot",
+    "lat": 40.735209,
+    "lng": -73.948553,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0431",
+    "name": "Forno Rosso Upper",
+    "description": "Forno Rosso Upper is a no-frills pizza spot in Upper East Side, NYC, known for coal oven, thin crust, fresh mozzarella. It's a moderately priced spot.",
+    "neighborhood": "Upper East Side",
+    "category": "pizza_spot",
+    "lat": 40.778131,
+    "lng": -73.962153,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0432",
+    "name": "Forno Rosso Cobble",
+    "description": "Forno Rosso Cobble is a blistered-crust pizza spot in Cobble Hill, NYC, known for by-the-slice, Neapolitan, coal oven. It's a splurge-worthy spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "pizza_spot",
+    "lat": 40.694113,
+    "lng": -73.98857,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0433",
+    "name": "Lucia Pizza Harlem",
+    "description": "Lucia Pizza Harlem is a blistered-crust pizza spot in Harlem, NYC, known for by-the-slice, thin crust, Neapolitan. It's a moderately priced spot.",
+    "neighborhood": "Harlem",
+    "category": "pizza_spot",
+    "lat": 40.819592,
+    "lng": -73.943411,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0434",
+    "name": "Coal & Char Nolita",
+    "description": "Coal & Char Nolita is a wood-fired pizza spot in Nolita, NYC, known for by-the-slice, fresh mozzarella, thin crust. It's a upscale spot.",
+    "neighborhood": "Nolita",
+    "category": "pizza_spot",
+    "lat": 40.719834,
+    "lng": -73.993789,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0435",
+    "name": "Lucia Pizza Jackson",
+    "description": "Lucia Pizza Jackson is a wood-fired pizza spot in Jackson Heights, NYC, known for Neapolitan, coal oven, thin crust. It's a moderately priced spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "pizza_spot",
+    "lat": 40.763489,
+    "lng": -73.88309,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0436",
+    "name": "Slice Society Greenpoint",
+    "description": "Slice Society Greenpoint is a wood-fired pizza spot in Greenpoint, NYC, known for thin crust, Neapolitan, coal oven. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "pizza_spot",
+    "lat": 40.727253,
+    "lng": -73.941256,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0437",
+    "name": "Slice Society Tribeca",
+    "description": "Slice Society Tribeca is a old-school pizza spot in Tribeca, NYC, known for thin crust, coal oven, Neapolitan. It's a upscale spot.",
+    "neighborhood": "Tribeca",
+    "category": "pizza_spot",
+    "lat": 40.712953,
+    "lng": -73.998867,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0438",
+    "name": "Lucia Pizza Cobble",
+    "description": "Lucia Pizza Cobble is a classic pizza spot in Cobble Hill, NYC, known for by-the-slice, thin crust, coal oven. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "pizza_spot",
+    "lat": 40.688826,
+    "lng": -74.002931,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0439",
+    "name": "Pomodoro Tribeca",
+    "description": "Pomodoro Tribeca is a classic pizza spot in Tribeca, NYC, known for fresh mozzarella, Neapolitan, thin crust. It's a moderately priced spot.",
+    "neighborhood": "Tribeca",
+    "category": "pizza_spot",
+    "lat": 40.725607,
+    "lng": -74.010934,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0440",
+    "name": "Coal & Char Park",
+    "description": "Coal & Char Park is a blistered-crust pizza spot in Park Slope, NYC, known for coal oven, by-the-slice, fresh mozzarella. It's a upscale spot.",
+    "neighborhood": "Park Slope",
+    "category": "pizza_spot",
+    "lat": 40.664812,
+    "lng": -73.977865,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0441",
+    "name": "Slice Society Upper",
+    "description": "Slice Society Upper is a classic pizza spot in Upper West Side, NYC, known for coal oven, fresh mozzarella, by-the-slice. It's a moderately priced spot.",
+    "neighborhood": "Upper West Side",
+    "category": "pizza_spot",
+    "lat": 40.788773,
+    "lng": -73.98206,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0442",
+    "name": "Slice Society Harlem",
+    "description": "Slice Society Harlem is a old-school pizza spot in Harlem, NYC, known for Neapolitan, by-the-slice, thin crust. It's a moderately priced spot.",
+    "neighborhood": "Harlem",
+    "category": "pizza_spot",
+    "lat": 40.819359,
+    "lng": -73.936591,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0443",
+    "name": "Forno Rosso Ridgewood",
+    "description": "Forno Rosso Ridgewood is a blistered-crust pizza spot in Ridgewood, NYC, known for thin crust, Neapolitan, fresh mozzarella. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "pizza_spot",
+    "lat": 40.690382,
+    "lng": -73.910514,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0444",
+    "name": "Lucia Pizza Greenwich",
+    "description": "Lucia Pizza Greenwich is a wood-fired pizza spot in Greenwich Village, NYC, known for thin crust, coal oven, Neapolitan. It's a moderately priced spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "pizza_spot",
+    "lat": 40.737822,
+    "lng": -73.996857,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0445",
+    "name": "Slice Society Ridgewood",
+    "description": "Slice Society Ridgewood is a classic pizza spot in Ridgewood, NYC, known for Neapolitan, coal oven, by-the-slice. It's a upscale spot.",
+    "neighborhood": "Ridgewood",
+    "category": "pizza_spot",
+    "lat": 40.709894,
+    "lng": -73.901761,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0446",
+    "name": "Lucia Pizza West",
+    "description": "Lucia Pizza West is a blistered-crust pizza spot in West Village, NYC, known for fresh mozzarella, coal oven, by-the-slice. It's a moderately priced spot.",
+    "neighborhood": "West Village",
+    "category": "pizza_spot",
+    "lat": 40.730855,
+    "lng": -73.999563,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0447",
+    "name": "Lucia Pizza Crown",
+    "description": "Lucia Pizza Crown is a classic pizza spot in Crown Heights, NYC, known for coal oven, by-the-slice, fresh mozzarella. It's a moderately priced spot.",
+    "neighborhood": "Crown Heights",
+    "category": "pizza_spot",
+    "lat": 40.671513,
+    "lng": -73.951457,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0448",
+    "name": "Pomodoro Greenpoint",
+    "description": "Pomodoro Greenpoint is a old-school pizza spot in Greenpoint, NYC, known for coal oven, Neapolitan, thin crust. It's a budget-friendly spot.",
+    "neighborhood": "Greenpoint",
+    "category": "pizza_spot",
+    "lat": 40.724373,
+    "lng": -73.957005,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0449",
+    "name": "Pomodoro Flushing",
+    "description": "Pomodoro Flushing is a blistered-crust pizza spot in Flushing, NYC, known for by-the-slice, fresh mozzarella, thin crust. It's a splurge-worthy spot.",
+    "neighborhood": "Flushing",
+    "category": "pizza_spot",
+    "lat": 40.760707,
+    "lng": -73.832137,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0450",
+    "name": "Brunch Club",
+    "description": "Brunch Club is a easygoing brunch spot in Crown Heights, NYC, known for bottomless mimosas, eggs benedict, ricotta pancakes. It's a moderately priced spot.",
+    "neighborhood": "Crown Heights",
+    "category": "brunch_spot",
+    "lat": 40.66118,
+    "lng": -73.951991,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0451",
+    "name": "Brunch Club Fort",
+    "description": "Brunch Club Fort is a leisurely brunch spot in Fort Greene, NYC, known for bottomless mimosas, eggs benedict, ricotta pancakes. It's a budget-friendly spot.",
+    "neighborhood": "Fort Greene",
+    "category": "brunch_spot",
+    "lat": 40.696472,
+    "lng": -73.965904,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0452",
+    "name": "Maple & Thyme",
+    "description": "Maple & Thyme is a bottomless brunch spot in Williamsburg, NYC, known for bottomless mimosas, eggs benedict, outdoor seating. It's a moderately priced spot.",
+    "neighborhood": "Williamsburg",
+    "category": "brunch_spot",
+    "lat": 40.715583,
+    "lng": -73.950055,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0453",
+    "name": "Maple & Thyme Long",
+    "description": "Maple & Thyme Long is a leisurely brunch spot in Long Island City, NYC, known for bottomless mimosas, eggs benedict, outdoor seating. It's a moderately priced spot.",
+    "neighborhood": "Long Island City",
+    "category": "brunch_spot",
+    "lat": 40.734893,
+    "lng": -73.955732,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0454",
+    "name": "Maple & Thyme Midtown",
+    "description": "Maple & Thyme Midtown is a leisurely brunch spot in Midtown, NYC, known for eggs benedict, ricotta pancakes, outdoor seating. It's a upscale spot.",
+    "neighborhood": "Midtown",
+    "category": "brunch_spot",
+    "lat": 40.746759,
+    "lng": -73.977701,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0455",
+    "name": "Brunch Club SoHo",
+    "description": "Brunch Club SoHo is a popular brunch spot in SoHo, NYC, known for outdoor seating, ricotta pancakes, weekend brunch. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "brunch_spot",
+    "lat": 40.727098,
+    "lng": -74.003435,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0456",
+    "name": "The Egg & Spoon",
+    "description": "The Egg & Spoon is a easygoing brunch spot in Cobble Hill, NYC, known for bottomless mimosas, weekend brunch, eggs benedict. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "brunch_spot",
+    "lat": 40.685621,
+    "lng": -73.994285,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0457",
+    "name": "Brunch Club 3",
+    "description": "Brunch Club 3 is a leisurely brunch spot in Fort Greene, NYC, known for outdoor seating, ricotta pancakes, eggs benedict. It's a budget-friendly spot.",
+    "neighborhood": "Fort Greene",
+    "category": "brunch_spot",
+    "lat": 40.682576,
+    "lng": -73.970311,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0458",
+    "name": "Brunch Club Bushwick",
+    "description": "Brunch Club Bushwick is a sunny brunch spot in Bushwick, NYC, known for outdoor seating, eggs benedict, bottomless mimosas. It's a budget-friendly spot.",
+    "neighborhood": "Bushwick",
+    "category": "brunch_spot",
+    "lat": 40.685667,
+    "lng": -73.918201,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0459",
+    "name": "Daisy's",
+    "description": "Daisy's is a easygoing brunch spot in Crown Heights, NYC, known for eggs benedict, weekend brunch, ricotta pancakes. It's a upscale spot.",
+    "neighborhood": "Crown Heights",
+    "category": "brunch_spot",
+    "lat": 40.676863,
+    "lng": -73.943818,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0460",
+    "name": "Brunch Club 4",
+    "description": "Brunch Club 4 is a leisurely brunch spot in SoHo, NYC, known for weekend brunch, outdoor seating, eggs benedict. It's a upscale spot.",
+    "neighborhood": "SoHo",
+    "category": "brunch_spot",
+    "lat": 40.726574,
+    "lng": -74.000172,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0461",
+    "name": "Daisy's Flushing",
+    "description": "Daisy's Flushing is a popular brunch spot in Flushing, NYC, known for eggs benedict, bottomless mimosas, outdoor seating. It's a upscale spot.",
+    "neighborhood": "Flushing",
+    "category": "brunch_spot",
+    "lat": 40.770368,
+    "lng": -73.839961,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0462",
+    "name": "Brunch Club Jackson",
+    "description": "Brunch Club Jackson is a sunny brunch spot in Jackson Heights, NYC, known for bottomless mimosas, outdoor seating, weekend brunch. It's a upscale spot.",
+    "neighborhood": "Jackson Heights",
+    "category": "brunch_spot",
+    "lat": 40.750518,
+    "lng": -73.873697,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0463",
+    "name": "The Egg & Spoon Greenpoint",
+    "description": "The Egg & Spoon Greenpoint is a easygoing brunch spot in Greenpoint, NYC, known for outdoor seating, eggs benedict, bottomless mimosas. It's a moderately priced spot.",
+    "neighborhood": "Greenpoint",
+    "category": "brunch_spot",
+    "lat": 40.721977,
+    "lng": -73.952116,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0464",
+    "name": "Sunday Social",
+    "description": "Sunday Social is a sunny brunch spot in Williamsburg, NYC, known for outdoor seating, ricotta pancakes, bottomless mimosas. It's a upscale spot.",
+    "neighborhood": "Williamsburg",
+    "category": "brunch_spot",
+    "lat": 40.717713,
+    "lng": -73.952195,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0465",
+    "name": "Brunch Club 5",
+    "description": "Brunch Club 5 is a bottomless brunch spot in SoHo, NYC, known for eggs benedict, bottomless mimosas, outdoor seating. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "brunch_spot",
+    "lat": 40.729136,
+    "lng": -73.993737,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0466",
+    "name": "Daisy's Ridgewood",
+    "description": "Daisy's Ridgewood is a popular brunch spot in Ridgewood, NYC, known for outdoor seating, ricotta pancakes, weekend brunch. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "brunch_spot",
+    "lat": 40.706506,
+    "lng": -73.898668,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0467",
+    "name": "Daisy's Midtown",
+    "description": "Daisy's Midtown is a sunny brunch spot in Midtown, NYC, known for eggs benedict, outdoor seating, ricotta pancakes. It's a upscale spot.",
+    "neighborhood": "Midtown",
+    "category": "brunch_spot",
+    "lat": 40.758043,
+    "lng": -73.979682,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0468",
+    "name": "The Egg & Spoon SoHo",
+    "description": "The Egg & Spoon SoHo is a sunny brunch spot in SoHo, NYC, known for ricotta pancakes, eggs benedict, outdoor seating. It's a budget-friendly spot.",
+    "neighborhood": "SoHo",
+    "category": "brunch_spot",
+    "lat": 40.72374,
+    "lng": -73.998958,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0469",
+    "name": "The Egg & Spoon Ridgewood",
+    "description": "The Egg & Spoon Ridgewood is a popular brunch spot in Ridgewood, NYC, known for outdoor seating, bottomless mimosas, weekend brunch. It's a moderately priced spot.",
+    "neighborhood": "Ridgewood",
+    "category": "brunch_spot",
+    "lat": 40.702217,
+    "lng": -73.911249,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0470",
+    "name": "Brunch Club Greenwich",
+    "description": "Brunch Club Greenwich is a easygoing brunch spot in Greenwich Village, NYC, known for weekend brunch, ricotta pancakes, bottomless mimosas. It's a upscale spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "brunch_spot",
+    "lat": 40.738743,
+    "lng": -74.01177,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0471",
+    "name": "Brunch Club 6",
+    "description": "Brunch Club 6 is a easygoing brunch spot in SoHo, NYC, known for eggs benedict, weekend brunch, outdoor seating. It's a moderately priced spot.",
+    "neighborhood": "SoHo",
+    "category": "brunch_spot",
+    "lat": 40.713387,
+    "lng": -73.998276,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0472",
+    "name": "Brunch Club Sunnyside",
+    "description": "Brunch Club Sunnyside is a leisurely brunch spot in Sunnyside, NYC, known for outdoor seating, weekend brunch, ricotta pancakes. It's a upscale spot.",
+    "neighborhood": "Sunnyside",
+    "category": "brunch_spot",
+    "lat": 40.744971,
+    "lng": -73.91499,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0473",
+    "name": "Brunch Club 7",
+    "description": "Brunch Club 7 is a easygoing brunch spot in SoHo, NYC, known for eggs benedict, ricotta pancakes, outdoor seating. It's a upscale spot.",
+    "neighborhood": "SoHo",
+    "category": "brunch_spot",
+    "lat": 40.730928,
+    "lng": -74.004627,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0474",
+    "name": "The Egg & Spoon Sunnyside",
+    "description": "The Egg & Spoon Sunnyside is a easygoing brunch spot in Sunnyside, NYC, known for ricotta pancakes, eggs benedict, weekend brunch. It's a moderately priced spot.",
+    "neighborhood": "Sunnyside",
+    "category": "brunch_spot",
+    "lat": 40.749496,
+    "lng": -73.926836,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0475",
+    "name": "The Nook",
+    "description": "The Nook is a candlelit date-night spot in Crown Heights, NYC, known for special occasion, great wine list, tucked away. It's a moderately priced spot.",
+    "neighborhood": "Crown Heights",
+    "category": "date_spot",
+    "lat": 40.674136,
+    "lng": -73.943128,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0476",
+    "name": "The Corner Table",
+    "description": "The Corner Table is a candlelit date-night spot in Greenwich Village, NYC, known for great wine list, special occasion, tucked away. It's a upscale spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "date_spot",
+    "lat": 40.726253,
+    "lng": -73.998492,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0477",
+    "name": "The Nook Greenpoint",
+    "description": "The Nook Greenpoint is a swoon-worthy date-night spot in Greenpoint, NYC, known for great wine list, low lighting, shared plates. It's a upscale spot.",
+    "neighborhood": "Greenpoint",
+    "category": "date_spot",
+    "lat": 40.731646,
+    "lng": -73.949344,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0478",
+    "name": "The Nook Fort",
+    "description": "The Nook Fort is a romantic date-night spot in Fort Greene, NYC, known for tucked away, low lighting, great wine list. It's a moderately priced spot.",
+    "neighborhood": "Fort Greene",
+    "category": "date_spot",
+    "lat": 40.684129,
+    "lng": -73.976383,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0479",
+    "name": "L'Amour",
+    "description": "L'Amour is a intimate date-night spot in Fort Greene, NYC, known for shared plates, great wine list, tucked away. It's a budget-friendly spot.",
+    "neighborhood": "Fort Greene",
+    "category": "date_spot",
+    "lat": 40.687011,
+    "lng": -73.967212,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0480",
+    "name": "The Nook Greenwich",
+    "description": "The Nook Greenwich is a candlelit date-night spot in Greenwich Village, NYC, known for tucked away, low lighting, great wine list. It's a budget-friendly spot.",
+    "neighborhood": "Greenwich Village",
+    "category": "date_spot",
+    "lat": 40.740961,
+    "lng": -73.99791,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0481",
+    "name": "The Nook Red",
+    "description": "The Nook Red is a swoon-worthy date-night spot in Red Hook, NYC, known for special occasion, great wine list, tucked away. It's a moderately priced spot.",
+    "neighborhood": "Red Hook",
+    "category": "date_spot",
+    "lat": 40.67839,
+    "lng": -74.00137,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0482",
+    "name": "Lumiere",
+    "description": "Lumiere is a swoon-worthy date-night spot in Financial District, NYC, known for low lighting, special occasion, great wine list. It's a splurge-worthy spot.",
+    "neighborhood": "Financial District",
+    "category": "date_spot",
+    "lat": 40.702527,
+    "lng": -74.008889,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0483",
+    "name": "The Corner Table Flushing",
+    "description": "The Corner Table Flushing is a candlelit date-night spot in Flushing, NYC, known for great wine list, shared plates, special occasion. It's a splurge-worthy spot.",
+    "neighborhood": "Flushing",
+    "category": "date_spot",
+    "lat": 40.776786,
+    "lng": -73.837216,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0484",
+    "name": "L'Amour Fort",
+    "description": "L'Amour Fort is a intimate date-night spot in Fort Greene, NYC, known for shared plates, low lighting, special occasion. It's a budget-friendly spot.",
+    "neighborhood": "Fort Greene",
+    "category": "date_spot",
+    "lat": 40.682813,
+    "lng": -73.978418,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0485",
+    "name": "The Corner Table Tribeca",
+    "description": "The Corner Table Tribeca is a romantic date-night spot in Tribeca, NYC, known for great wine list, low lighting, shared plates. It's a moderately priced spot.",
+    "neighborhood": "Tribeca",
+    "category": "date_spot",
+    "lat": 40.715627,
+    "lng": -73.99985,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0486",
+    "name": "Lumiere Tribeca",
+    "description": "Lumiere Tribeca is a romantic date-night spot in Tribeca, NYC, known for special occasion, great wine list, shared plates. It's a moderately priced spot.",
+    "neighborhood": "Tribeca",
+    "category": "date_spot",
+    "lat": 40.722098,
+    "lng": -74.007597,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0487",
+    "name": "Lumiere Long",
+    "description": "Lumiere Long is a swoon-worthy date-night spot in Long Island City, NYC, known for shared plates, low lighting, great wine list. It's a moderately priced spot.",
+    "neighborhood": "Long Island City",
+    "category": "date_spot",
+    "lat": 40.737887,
+    "lng": -73.947638,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0488",
+    "name": "Lumiere East",
+    "description": "Lumiere East is a atmospheric date-night spot in East Village, NYC, known for shared plates, great wine list, special occasion. It's a moderately priced spot.",
+    "neighborhood": "East Village",
+    "category": "date_spot",
+    "lat": 40.723716,
+    "lng": -73.987131,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0489",
+    "name": "Petite Maison",
+    "description": "Petite Maison is a atmospheric date-night spot in Greenpoint, NYC, known for low lighting, special occasion, great wine list. It's a splurge-worthy spot.",
+    "neighborhood": "Greenpoint",
+    "category": "date_spot",
+    "lat": 40.72732,
+    "lng": -73.956193,
+    "price_tier": 4
+  },
+  {
+    "id": "syn_0490",
+    "name": "The Nook Sunnyside",
+    "description": "The Nook Sunnyside is a swoon-worthy date-night spot in Sunnyside, NYC, known for low lighting, great wine list, shared plates. It's a moderately priced spot.",
+    "neighborhood": "Sunnyside",
+    "category": "date_spot",
+    "lat": 40.751719,
+    "lng": -73.9107,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0491",
+    "name": "The Nook Upper",
+    "description": "The Nook Upper is a romantic date-night spot in Upper East Side, NYC, known for low lighting, great wine list, tucked away. It's a upscale spot.",
+    "neighborhood": "Upper East Side",
+    "category": "date_spot",
+    "lat": 40.779656,
+    "lng": -73.957689,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0492",
+    "name": "The Corner Table Harlem",
+    "description": "The Corner Table Harlem is a atmospheric date-night spot in Harlem, NYC, known for low lighting, special occasion, tucked away. It's a moderately priced spot.",
+    "neighborhood": "Harlem",
+    "category": "date_spot",
+    "lat": 40.821033,
+    "lng": -73.941034,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0493",
+    "name": "L'Amour Lower",
+    "description": "L'Amour Lower is a swoon-worthy date-night spot in Lower East Side, NYC, known for shared plates, tucked away, low lighting. It's a moderately priced spot.",
+    "neighborhood": "Lower East Side",
+    "category": "date_spot",
+    "lat": 40.709112,
+    "lng": -73.977725,
+    "price_tier": 2
+  },
+  {
+    "id": "syn_0494",
+    "name": "L'Amour Cobble",
+    "description": "L'Amour Cobble is a romantic date-night spot in Cobble Hill, NYC, known for shared plates, low lighting, special occasion. It's a upscale spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "date_spot",
+    "lat": 40.691637,
+    "lng": -74.005342,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0495",
+    "name": "The Corner Table West",
+    "description": "The Corner Table West is a swoon-worthy date-night spot in West Village, NYC, known for special occasion, low lighting, great wine list. It's a upscale spot.",
+    "neighborhood": "West Village",
+    "category": "date_spot",
+    "lat": 40.742232,
+    "lng": -73.99538,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0496",
+    "name": "Petite Maison Hell's",
+    "description": "Petite Maison Hell's is a romantic date-night spot in Hell's Kitchen, NYC, known for tucked away, great wine list, low lighting. It's a upscale spot.",
+    "neighborhood": "Hell's Kitchen",
+    "category": "date_spot",
+    "lat": 40.76159,
+    "lng": -73.999434,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0497",
+    "name": "The Nook Cobble",
+    "description": "The Nook Cobble is a atmospheric date-night spot in Cobble Hill, NYC, known for special occasion, low lighting, great wine list. It's a budget-friendly spot.",
+    "neighborhood": "Cobble Hill",
+    "category": "date_spot",
+    "lat": 40.694265,
+    "lng": -73.998946,
+    "price_tier": 1
+  },
+  {
+    "id": "syn_0498",
+    "name": "Lumiere SoHo",
+    "description": "Lumiere SoHo is a swoon-worthy date-night spot in SoHo, NYC, known for great wine list, low lighting, shared plates. It's a upscale spot.",
+    "neighborhood": "SoHo",
+    "category": "date_spot",
+    "lat": 40.728605,
+    "lng": -74.004246,
+    "price_tier": 3
+  },
+  {
+    "id": "syn_0499",
+    "name": "L'Amour Flushing",
+    "description": "L'Amour Flushing is a atmospheric date-night spot in Flushing, NYC, known for special occasion, shared plates, low lighting. It's a moderately priced spot.",
+    "neighborhood": "Flushing",
+    "category": "date_spot",
+    "lat": 40.772435,
+    "lng": -73.827165,
+    "price_tier": 2
+  }
+]

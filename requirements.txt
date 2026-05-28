@@ -1,0 +1,17 @@
+# Data pipeline
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Fine-tuning
+torch>=2.1.0
+sentence-transformers>=2.7.0
+transformers>=4.40.0
+datasets>=2.18.0
+wandb>=0.16.0
+huggingface-hub>=0.23.0
+numpy>=1.26.0
+
+# API
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.6.0

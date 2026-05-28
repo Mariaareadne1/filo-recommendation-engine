@@ -1,92 +1,168 @@
-# filo — NYC venue recommendation engine
+# filo-recommendation-engine
 
-filo turns a natural-language vibe ("romantic wine bar with candlelight") into a
-ranked list of real NYC venues. It pairs a fine-tuned sentence-embedding model
-with a FastAPI semantic-search backend and a dark, NYC-inspired React frontend.
+The ML backbone for [Filo](https://github.com/Mariaareadne1/Filo) — a NYC venue discovery app. This repo is a learning project built to go deeper into machine learning: fine-tuning sentence embeddings, building a PyTorch training loop from scratch, logging experiments with Weights & Biases, and serving predictions through a REST API.
+
+Type a query like `"cozy wine bar for a date"` or `"late night ramen in Brooklyn"` and get back ranked NYC venues that actually match the vibe.
+
+---
+
+## What this is
+
+Filo (the mobile app) helps people find places in NYC. This engine is the recommendation layer — it understands natural language queries and matches them to venues using semantic similarity rather than keyword matching.
+
+Built across four phases as a hands-on ML learning project:
+
+| Phase | What was built |
+|---|---|
+| 1 — Data pipeline | Foursquare fetch + synthetic fallback → 500 NYC venues |
+| 2 — Fine-tuning | MiniLM-L6-v2 fine-tuned with contrastive loss, W&B logging |
+| 3 — API | FastAPI endpoint with cached cosine similarity search |
+| 4 — Frontend | React search UI with venue cards |
+
+---
+
+## How it works
+
+A sentence-transformers model (`all-MiniLM-L6-v2`) is fine-tuned on pairs of natural language queries and venue descriptions using `MultipleNegativesRankingLoss`. At inference time, a query like `"jazz club with good cocktails"` is embedded into the same vector space as all 500 venue descriptions, and the top-k closest venues by cosine similarity are returned.
 
 ```
-query ──▶ fine-tuned MiniLM ──▶ cosine similarity over venue embeddings ──▶ ranked venues
+query: "jazz club with good cocktails"
+   ↓  embed (fine-tuned MiniLM)
+[0.23, -0.11, 0.87, ...]
+   ↓  cosine similarity against 500 venue embeddings
+top 5 → Smalls Jazz Club (0.81), Mezzrow (0.79), Fat Cat (0.76) ...
 ```
 
-## Architecture
+---
 
-| Phase | Path | What it does |
-|-------|------|--------------|
-| 1. Data | `data/process.py` | Fetches ~500 NYC venues from Foursquare (synthetic fallback) and builds NL descriptions |
-| 2. Train | `train/finetune.py` | Fine-tunes `all-MiniLM-L6-v2` with contrastive loss, logs to W&B |
-| 3. API | `api/main.py` | FastAPI semantic search over cached venue embeddings |
-| 4. UI | `frontend/` | Vite + React + Tailwind search experience |
+## Project structure
 
-Each phase is independently runnable.
+```
+filo-recommendation-engine/
+├── data/
+│   ├── process.py          # Foursquare fetch + synthetic fallback
+│   ├── venues.json         # 500 NYC venues (generated)
+│   └── sample_queries.json # 50 query → category training pairs
+├── train/
+│   ├── dataset.py          # PyTorch Dataset: query/positive + hard negatives
+│   └── finetune.py         # Training loop, W&B logging, checkpoint save
+├── api/
+│   ├── embeddings.py       # Load model, cache embeddings, cosine search
+│   └── main.py             # FastAPI: GET /health, POST /recommend
+├── frontend/
+│   └── src/
+│       ├── App.jsx
+│       └── components/
+│           ├── SearchBar.jsx
+│           └── VenueCard.jsx
+├── scripts/
+│   └── run_all.sh          # One-shot: install → data → train → serve
+├── .env.example
+├── requirements.txt
+└── README.md
+```
 
-## Setup
+---
+
+## Quickstart
 
 ```bash
-# 1. Python env
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
+git clone https://github.com/Mariaareadne1/filo-recommendation-engine
+cd filo-recommendation-engine
 
-# 2. Configure keys (all optional — the pipeline degrades gracefully)
 cp .env.example .env
-# edit .env and add FOURSQUARE_API_KEY / WANDB_API_KEY / HF_TOKEN
-```
+# Add your keys to .env (all optional — synthetic data works without them)
 
-> **Keys are optional.** Without `FOURSQUARE_API_KEY` the pipeline generates a
-> realistic synthetic dataset. Without `WANDB_API_KEY` training runs in W&B
-> offline mode. Without `HF_TOKEN` the model is saved locally only.
-
-## Running each phase
-
-```bash
-# Phase 1 — build the dataset
-python data/process.py
-#   -> data/venues.json, data/sample_queries.json
-
-# Phase 2 — fine-tune (CPU-friendly, ~3-5 epochs, < 10 min)
-python train/finetune.py
-#   -> models/filo-recommender/
-
-# Phase 3 — start the API
-uvicorn api.main:app --reload --port 8000
-#   GET  http://localhost:8000/health
-#   POST http://localhost:8000/recommend  {"query": "...", "top_k": 5}
-
-# Phase 4 — start the frontend
-cd frontend && npm install && npm run dev
-#   -> http://localhost:3000
-```
-
-Or run everything in sequence:
-
-```bash
 bash scripts/run_all.sh
 ```
 
-## API
+Or run each phase manually:
 
-`POST /recommend`
+```bash
+# 1. Set up environment
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
 
-```json
-{ "query": "cozy wine bar for a date", "top_k": 5 }
+# 2. Generate venue data
+python data/process.py
+
+# 3. Fine-tune the model (~30s on CPU)
+python train/finetune.py
+
+# 4. Start the API
+uvicorn api.main:app --reload --port 8000
+
+# 5. Start the frontend (separate terminal)
+cd frontend && npm install && npm run dev
 ```
 
-returns
+---
 
+## API
+
+```
+POST /recommend
+{
+  "query": "cozy wine bar for a date",
+  "top_k": 5
+}
+```
+
+Returns:
 ```json
 [
   {
-    "name": "Decant",
-    "description": "Decant is an intimate wine bar in the West Village ...",
+    "name": "Anfora",
     "neighborhood": "West Village",
     "category": "wine_bar",
-    "score": 0.83
-  }
+    "description": "Anfora is a dimly lit wine bar in the West Village...",
+    "score": 0.81
+  },
+  ...
 ]
 ```
 
-## Notes
+Also: `GET /health` → `{"status": "ok"}`
 
-- The API falls back to base `all-MiniLM-L6-v2` if no fine-tuned checkpoint
-  exists in `models/filo-recommender/`, so Phase 3 works before Phase 2 runs.
-- Heavy ML dependencies (`torch`, `sentence-transformers`) are only needed for
-  Phases 2 and 3. Phase 1 needs only `requests` + `python-dotenv`.
+---
+
+## Environment variables
+
+| Variable | Required | What it's for |
+|---|---|---|
+| `FOURSQUARE_API_KEY` | No | Real venue data (falls back to synthetic) |
+| `WANDB_API_KEY` | No | Training metrics in W&B dashboard |
+| `HF_TOKEN` | No | Push fine-tuned model to Hugging Face Hub |
+
+---
+
+## Training details
+
+- **Base model:** `sentence-transformers/all-MiniLM-L6-v2`
+- **Loss:** `MultipleNegativesRankingLoss` (contrastive)
+- **Training time:** ~30s on CPU, 3–5 epochs
+- **Logged to W&B:** loss/step, MRR@5, learning rate, epoch
+- **Checkpoint:** saved to `models/filo-recommender/` (gitignored)
+
+Note: with synthetic data, MRR@5 reads 1.0 because descriptions contain category words directly. Against real Foursquare data the metric becomes meaningful — swap in a `FOURSQUARE_API_KEY` to see it in action.
+
+---
+
+## Stack
+
+**ML:** PyTorch · sentence-transformers · Weights & Biases · Hugging Face  
+**Backend:** FastAPI · NumPy (cosine similarity) · Pydantic  
+**Frontend:** React 19 · Vite · Tailwind CSS v4  
+**Data:** Foursquare Places API (+ synthetic fallback)
+
+---
+
+## Related
+
+**[Filo (mobile app)](https://github.com/Mariaareadne1/Filo)** — the React Native / Expo app this engine is built for. Expo + Supabase + Mapbox, helping people discover NYC venues on their phone.
+
+---
+
+## Why I built this
+
+Filo started as a mobile app project. This repo is the ML extension of it — a way to go hands-on with the parts of machine learning I wanted to understand better: how fine-tuning actually works, what a training loop looks like in raw PyTorch, how embeddings encode meaning, and how you take a trained model and turn it into something you can call from an app. Every phase was a new thing to figure out.

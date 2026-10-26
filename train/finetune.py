@@ -37,7 +37,7 @@ from dataset import (  # noqa: E402  (local module, after dotenv)
     build_pairs,
     load_queries,
     load_venues,
-    train_val_split,
+    split_queries,
 )
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -178,12 +178,17 @@ def train() -> None:
     print(f"[train] device: {device}")
 
     venues = load_venues()
-    queries = load_queries()
-    pairs = build_pairs(venues, queries)
-    train_pairs, val_pairs = train_val_split(pairs)
-    # Hold out a slice of queries for validation MRR (deterministic split).
-    val_queries = queries[::4]
-    print(f"[train] {len(train_pairs)} train pairs, {len(val_queries)} val queries")
+    # Split at the query level *before* building pairs. Previously pairs were
+    # built from every query and validation used queries[::4], so each
+    # validation query had also been trained on and MRR@5 was leaked.
+    train_queries, val_queries = split_queries(load_queries())
+    overlap = {q["query"] for q in train_queries} & {q["query"] for q in val_queries}
+    assert not overlap, f"validation queries leaked into training: {sorted(overlap)}"
+    train_pairs = build_pairs(venues, train_queries)
+    print(
+        f"[train] {len(train_pairs)} train pairs from {len(train_queries)} queries, "
+        f"{len(val_queries)} held-out val queries"
+    )
 
     model = SentenceTransformer(BASE_MODEL, device=device)
     model.max_seq_length = MAX_SEQ_LENGTH

@@ -139,6 +139,29 @@ def build_pairs(
     return pairs
 
 
+def split_queries(
+    queries: list[dict[str, Any]], val_every: int = 4
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    """Split sample queries into disjoint train / validation sets.
+
+    The split happens at the *query* level, before pairs are built, so no
+    validation query (or its exact text) is ever seen during training.
+    Splitting pairs instead would leak: every query contributes several pairs,
+    so the same query text would land on both sides.
+
+    Args:
+        queries: sample queries.
+        val_every: every Nth query (deterministic) goes to validation.
+
+    Returns:
+        (train_queries, val_queries), disjoint by query text.
+    """
+    val = queries[::val_every]
+    val_text = {q["query"] for q in val}
+    train = [q for q in queries if q["query"] not in val_text]
+    return train, val
+
+
 def train_val_split(
     pairs: list[dict[str, Any]], val_frac: float = 0.15, seed: int = 42
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
@@ -198,9 +221,9 @@ class FiloPairDataset(Dataset):
 
 
 if __name__ == "__main__":
-    all_pairs = build_pairs()
-    train_pairs, val_pairs = train_val_split(all_pairs)
-    print(f"total pairs: {len(all_pairs)}")
-    print(f"train: {len(train_pairs)}  val: {len(val_pairs)}")
+    train_queries, val_queries = split_queries(load_queries())
+    all_pairs = build_pairs(queries=train_queries)
+    print(f"queries: {len(train_queries)} train / {len(val_queries)} val (disjoint)")
+    print(f"training pairs (train queries only): {len(all_pairs)}")
     print("\nexample pair:")
     print(json.dumps(all_pairs[0], indent=2, ensure_ascii=False))
